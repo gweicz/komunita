@@ -18,9 +18,9 @@ Rychlá komunikace v rámci komunity. Pokud máte nějaký dotaz, zkušenost neb
 
 Užitečné odkazy: [MEE6 Leaderboard](https://mee6.xyz/leaderboard/677477899464343582), [Statbot Dashboard](https://statbot.net/dashboard/677477899464343582)
 
-Součástí našeho Discordu je i hlasová místnost [\#etheroom](projekty/etheroom/), kde pořádáme různé pravidelné setkání.
+Součástí našeho Discordu je i hlasová místnost [\#etheroom](../projekty/etheroom/), kde pořádáme různé pravidelné setkání.
 
-{% page-ref page="projekty/etheroom/" %}
+{% page-ref page="../projekty/etheroom/" %}
 
 ## GitHub
 
