@@ -39,7 +39,7 @@ description: Důležité milníky naší komunity
 
 ### Březen 2020
 
-* 29.03.2020 - Přesun projektu [_Přehled CZ/SK kryptoscény_](projekty/cz-sk-kryptoscena.md) na vlastní subdoménu \([czsk-scena.gwei.cz](https://czsk-scena.gwei.cz)\).
+* 29.03.2020 - Přesun projektu [_Přehled CZ/SK kryptoscény_](projekty/czsk-kryptoscena.md) na vlastní subdoménu \([czsk-scena.gwei.cz](https://czsk-scena.gwei.cz)\).
 * 28.03.2020 - Založeno komunitní _Diskuzní fórum \(_[_forum.gwei.cz_](https://forum.gwei.cz)_\)_.
 * 24.03.2020 - Dokončená inicializace _Gwei.cz DAO v1_ \(4 zakládající členové\).
 * 15.03.2020 - Nový projekt _Srovnávač kurzů kryptoměn \(kurzy.gwei.cz\)_.
@@ -48,7 +48,7 @@ description: Důležité milníky naší komunity
 
 ### Únor 2020
 
-* 29.02.2020 - Nový projekt [_Přehled CZ/SK kryptoscény_](projekty/cz-sk-kryptoscena.md)_._
+* 29.02.2020 - Nový projekt [_Přehled CZ/SK kryptoscény_](projekty/czsk-kryptoscena.md)_._
 * 24.02.2020 - Založen Twitter účet [_@gweicz_](https://twitter.com/gweicz).
 * 13.02.2020 - Založen komunitní [_Discord_](https://chat.gwei.cz) \(chat\).
 * 12.02.2020 - Projekt [_dCZK_](https://github.com/gweicz/dczk) zveřejněn na našem GitHubu.

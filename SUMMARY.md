@@ -19,10 +19,10 @@
 * [\#etheroom](projekty/etheroom/README.md)
   * [Pálíme Ether](projekty/etheroom/palime-ether.md)
   * [Inkubátor](projekty/etheroom/inkubator.md)
-* [Ethereum/DeFi příručka](projekty/ethereum-defi-prirucka.md)
-* [Gwei.cz Summit](projekty/gwei.cz-summit.md)
+* [Ethereum/DeFi příručka](projekty/prirucka.md)
+* [Gwei.cz Summit](projekty/summit.md)
 * [DeFi Toolkit](projekty/defi-toolkit.md)
-* [CZ/SK Kryptoscéna](projekty/cz-sk-kryptoscena.md)
+* [CZ/SK Kryptoscéna](projekty/czsk-kryptoscena.md)
 
 ---
 
