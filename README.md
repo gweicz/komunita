@@ -4,15 +4,15 @@ Gwei.cz je Česko/Slovenská komunita příznivců platformy [Ethereum](https://
 
 ### 🤝 Přidejte se k nám
 
-Ke komunitě se může přidat každý, a to hned na několika platformách:
+Ke komunitě se může přidat každý, a to hned na několika [platformách](komunikacni-kanaly.md):
 
 * Na [Fóru](https://forum.gwei.cz), kde řešíme spíše komunitní věci \(projekty, akce, atd.\)
-* Na nášem [Discord](https://chat.gwei.cz) chatu, kde se nejčastěji bavíme o Ethereu, pomáháme nováčkům a probíhají zde i také [pravidelné cally](projekty/etheroom/)
-* Můžete nás sledovat i na [Twitteru](https://twitter.com/gweicz), kde informujeme o novinkách v Ethereum ekosystému
+* Na nášem [Discord](https://chat.gwei.cz) chatu, kde se bavíme o novinkách či pomáháme nováčkům a probíhají zde i také pravidelné setkání v místnosti [\#etheroom](projekty/etheroom/)
+* Můžete nás sledovat i na [Twitteru](https://twitter.com/gweicz), kde informujeme o novinkách
 
-Můžete nám také [**pomoci s rozvojem komunitních projektů**](https://forum.gwei.cz/t/gwei-cz-pomozte-nam-s-rozvojem-nasich-projektu/284), na kterých společně pracujeme a pomáháme tak celému Ethereum ekosystému.
+Můžete nám také [**pomoci s rozvojem komunitních projektů**](podporte-nas/), na kterých společně pracujeme a pomáháme tak celému Ethereum ekosystému.
 
-Každá komunita musí být alespoň v omezené míře spravována. U nás k tomu slouží[ Council](council.md).
+Každá komunita musí být alespoň v omezené míře spravována. U nás k tomu slouží [Council](council.md).
 
 ### 📃 Naše hodnoty
 

@@ -1,5 +1,5 @@
 ---
-description: 'Decentralizovaný stablecoin běžící na síti Ethereum, navázaný na kurz CZK'
+description: Experimentální decentralizovaný stablecoin navázaný na kurz CZK
 ---
 
 # dCZK Stablecoin

@@ -6,5 +6,5 @@ Připojte se každý druhý čtvrtek 18:00 na náš Discord do kanálu [\#ethero
 
 Den a čas: **každý druhý čtvrtek 18:00**
 
-Organizátoři: [@tree](https://forum.gwei.cz/u/tree), [@kleinpetr](https://forum.gwei.cz/u/kleinpetr)
+Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@kleinpetr](https://forum.gwei.cz/u/kleinpetr)
 

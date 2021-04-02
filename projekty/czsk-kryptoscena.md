@@ -8,5 +8,13 @@ description: >-
 
 {% embed url="https://czsk-scena.gwei.cz/" %}
 
+Spravuje: [@tree](https://forum.gwei.cz/u/tree)
+
+{% hint style="warning" %}
+Pro tento projekt hledáme nového správce.
+{% endhint %}
+
+## Náhled
+
 ![](../.gitbook/assets/screenshot-2021-04-01-at-6.43.50.png)
 

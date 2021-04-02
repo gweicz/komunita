@@ -1,11 +1,7 @@
 # Table of contents
 
 * [Kdo jsme?](README.md)
-* [Komunikační kanály](komunikacni-kanaly/README.md)
-  * [Fórum](https://forum.gwei.cz)
-  * [Discord](https://chat.gwei.cz)
-  * [GitHub](https://github.com/gweicz)
-  * [Twitter](https://twitter.com/gweicz)
+* [Komunikační kanály](komunikacni-kanaly.md)
 * [Council](council.md)
 * [Governance Call](governance-call.md)
 * [Historie](historie.md)

@@ -1,14 +1,14 @@
 ---
-description: Naše rada starších
+description: Rada starších
 ---
 
 # Council
 
 Nejaktivnější členové naší komunity, kteří společně komunitu řídí, směrují a vystupují za ní navenek.
 
+{% hint style="success" %}
 Council se schází pravidelně každé dva týdny na veřejném [Governance Callu](governance-call.md).
-
-{% page-ref page="governance-call.md" %}
+{% endhint %}
 
 ## Seznam členů \(14\)
 
