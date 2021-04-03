@@ -2,6 +2,8 @@
 
 Gwei.cz je Česko/Slovenská komunita příznivců platformy [Ethereum](https://prirucka.gwei.cz/prirucka/#co-je-ethereum) a hnutí okolo [decentralizovaných financí](https://prirucka.gwei.cz/prirucka/#co-jsou-to-decentralizovan%C3%A9-finance-defi) \(DeFi\). Nezajímá nás spekulace na ceně, ale reálný technologický pokrok v otevřených a decentralizovaných službách, které v rámci DeFi mění svět tradičních financí. Fintech je minulost – DeFi budoucnost.
 
+{% embed url="https://twitter.com/baidakova/status/1377112118135201799" %}
+
 ### 🤝 Přidejte se k nám
 
 Ke komunitě se může přidat každý, a to hned na několika [platformách](komunikacni-kanaly.md):
