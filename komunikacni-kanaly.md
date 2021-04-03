@@ -44,5 +44,5 @@ Aktuality z ETH/DeFi světa, informování o našich projektech nebo o naší ko
 
 Spravuje: [@tree](https://forum.gwei.cz/u/tree), [@Bohus](https://forum.gwei.cz/u/bohus), [@coinmandeer](https://forum.gwei.cz/u/coinmandeer)
 
-## 
+{% embed url="https://twitter.com/gweicz/status/1232134793665695746" %}
 
