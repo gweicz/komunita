@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kdo jsme?](README.md)
+* [Vítejte na Gwei.cz](README.md)
 * [Komunikační kanály](komunikacni-kanaly.md)
 * [Council](council.md)
 * [Governance Call](governance-call.md)
@@ -19,9 +19,11 @@
 * [Gwei.cz Summit](projekty/summit.md)
 * [DeFi Toolkit](projekty/defi-toolkit.md)
 * [CZ/SK Kryptoscéna](projekty/czsk-kryptoscena.md)
+* [BohemianDAO](projekty/bohemiandao.md)
 
 ---
 
 * [Pozastavené projekty](pozastavene-projekty/README.md)
-  * [dCZK Stablecoin](pozastavene-projekty/dczk-stablecoin.md)
+  * [dCZK stablecoin](pozastavene-projekty/dczk-stablecoin.md)
+  * [Kurzy směnáren a burz](pozastavene-projekty/kurzy-smenaren-a-burz.md)
 

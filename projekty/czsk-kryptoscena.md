@@ -8,6 +8,8 @@ description: >-
 
 {% embed url="https://czsk-scena.gwei.cz/" %}
 
+Zdrojový GitHub repozitář: [https://github.com/gweicz/czsk-cryptoscene](https://github.com/gweicz/czsk-cryptoscene)
+
 Spravuje: [@tree](https://forum.gwei.cz/u/tree)
 
 {% hint style="warning" %}

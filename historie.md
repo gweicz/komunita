@@ -9,7 +9,7 @@ description: Důležité milníky naší komunity
 ### Duben 2021
 
 * 07.04.2021 - [_Governance Call \#6_](https://forum.gwei.cz/t/7-4-18-00-governance-call-6/326).
-* 02.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz) \(Git repozitář\).
+* 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz) \(Git repozitář\).
 * 01.04.2021 - Nová dokumentace komunity pomocí systému GitBook na adrese [_komunita.gwei.cz_](https://komunita.gwei.cz).
 
 ### Březen 2021
