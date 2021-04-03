@@ -10,5 +10,3 @@ Příručka v současné době obsahuje neaktualizované informace, ale připrav
 
 {% embed url="https://prirucka.gwei.cz/prirucka/" %}
 
-
-
