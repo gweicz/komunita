@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Vítejte na Gwei.cz](README.md)
-* [Komunikační kanály](komunikacni-kanaly.md)
+* [Komunikační kanály](komunikacni-kanaly/README.md)
+  * [Fórum](komunikacni-kanaly/forum.md)
+  * [Discord](komunikacni-kanaly/discord.md)
+  * [GitHub](komunikacni-kanaly/github.md)
+  * [Twitter](komunikacni-kanaly/twitter.md)
 * [Council](council.md)
 * [Governance Call](governance-call/README.md)
   * [Seznam setkání](governance-call/seznam-setkani.md)

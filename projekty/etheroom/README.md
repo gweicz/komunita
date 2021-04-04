@@ -4,7 +4,7 @@ description: 'Hlasová místnost s pravidelným programem, kde se scházíme a d
 
 # \#etheroom
 
-Na našem [Discord serveru](../../komunikacni-kanaly.md#discord-chat) máme audio kanál **\#etheroom**, který využíváme na různé naše komunitní setkání.
+Na našem [Discord serveru](../../komunikacni-kanaly/#discord-chat) máme audio kanál **\#etheroom**, který využíváme na různé naše komunitní setkání.
 
 [🔗](https://emojipedia.org/link/#:~:text=Emoji%20Meaning&text=Used%20as%20an%20icon%20for,to%20Emoji%201.0%20in%202015.)[Přejít na náš Discord️](https://chat.gwei.cz)
 
@@ -39,5 +39,5 @@ Kdokoliv má možnost udělat tzv. “Etheroom Session” na jakékoliv téma so
 
 ## Máte nápad na nový pořad?
 
-Zastavte se na našem [Discordu](../../komunikacni-kanaly.md#discord-chat) nebo napište na [Fórum](../../komunikacni-kanaly.md#forum).
+Zastavte se na našem [Discordu](../../komunikacni-kanaly/#discord-chat) nebo napište na [Fórum](../../komunikacni-kanaly/#forum).
 

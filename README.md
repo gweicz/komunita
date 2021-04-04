@@ -6,7 +6,7 @@ _Gwei.cz je Česko/Slovenská komunita příznivců platformy_ [_Ethereum_](http
 
 ### 🤝 Přidejte se k nám
 
-Ke komunitě se může přidat každý, a to hned na několika [platformách](komunikacni-kanaly.md):
+Ke komunitě se může přidat každý, a to hned na několika [platformách](komunikacni-kanaly/):
 
 * Na [Fóru](https://forum.gwei.cz), kde řešíme spíše komunitní věci \(projekty, akce, atd.\)
 * Na nášem [Discord](https://chat.gwei.cz) chatu, kde se bavíme o novinkách či pomáháme nováčkům a probíhají zde i také pravidelné setkání v místnosti [\#etheroom](projekty/etheroom/)

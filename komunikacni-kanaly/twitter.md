@@ -1,0 +1,19 @@
+---
+description: I my jsme součástí fenoménu CryptoTwitteru (CT)
+---
+
+# Twitter
+
+* Účet: [**@gweicz**](https://twitter.com/gweicz)\*\*\*\*
+* Spravuje: [@tree](https://forum.gwei.cz/u/tree), [@Bohus](https://forum.gwei.cz/u/bohus), [@coinmandeer](https://forum.gwei.cz/u/coinmandeer)
+
+Dejte nám follow!
+
+{% embed url="https://twitter.com/gweicz/status/1232134793665695746" %}
+
+## Náhled
+
+![N&#xE1;&#x161; profil na Twitteru](../.gitbook/assets/twitter-screenshot.png)
+
+
+
