@@ -16,9 +16,12 @@ Všechny události jsou viditelné v našem [Kalendáři](https://forum.gwei.cz/
 
 Každý týden děláme několik pravidelných událostí.
 
-{% page-ref page="palime-ether.md" %}
-
-{% page-ref page="inkubator.md" %}
+| Den a čas | Série | Popis |
+| :--- | :--- | :--- |
+| úterý 20:00 | [Pálíme Ether](palime-ether.md) | Diskuze novinek v ETH/DeFi ekosystému |
+| středa 20:00 \(ob týden\) | [Governance Call](../../governance-call.md) | Naše projekty a rozvoj komunity |
+| čtvrtek 18:00 \(ob týden\) | [Inkubátor](inkubator.md) | Akcelerátor nápadů na zajímavé projekty |
+| čtvrtek 20:00 \(ob týden\) | [Pitevna](pitevna.md) | Diskuze jednoho konkrétního fenoménu |
 
 ### Nepravidelné události
 

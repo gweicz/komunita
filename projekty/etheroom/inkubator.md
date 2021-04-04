@@ -1,3 +1,7 @@
+---
+description: Akcelerátor nápadů na zajímavé projekty
+---
+
 # Inkubátor
 
 _Máte nápad na nějaký zajímavý projekt, související s Ethereem či DeFi? Něco vám v ekosystému chybí a myslíte, že máte nápad jak to vyřešit?_

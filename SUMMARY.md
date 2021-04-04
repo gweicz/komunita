@@ -15,6 +15,7 @@
 * [\#etheroom](projekty/etheroom/README.md)
   * [Pálíme Ether](projekty/etheroom/palime-ether.md)
   * [Inkubátor](projekty/etheroom/inkubator.md)
+  * [Pitevna](projekty/etheroom/pitevna.md)
 * [Ethereum/DeFi příručka](projekty/prirucka.md)
 * [Gwei.cz Summit](projekty/summit.md)
 * [DeFi Toolkit](projekty/defi-toolkit.md)
