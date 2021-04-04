@@ -4,7 +4,7 @@ description: 'Hlasová místnost s pravidelným programem, kde se scházíme a d
 
 # \#etheroom
 
-Na našem [Discord serveru Gwei.cz](https://chat.gwei.cz/) máme audio kanál **\#etheroom**, který využíváme na různé naše komunitní setkání.
+Na našem [Discord serveru](../../komunikacni-kanaly.md#discord-chat) máme audio kanál **\#etheroom**, který využíváme na různé naše komunitní setkání.
 
 {% hint style="info" %}
 Všechny události jsou viditelné v našem [Kalendáři](https://forum.gwei.cz/calendar), který si můžete i exportovat či propojit s vaším kalendářem.

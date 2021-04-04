@@ -7,7 +7,7 @@ description: Veřejné setkání jádra naší komunity
 Náš [Council](council.md) pravidelně pořádá online komunitní call, kde rozebíráme naše projekty a celkový rozvoj komunity. Call je otevřený všem!
 
 * Den a čas: **každou** _**druhou**_ **středu 18:00**
-* Místo: ****[**\#etheroom**](projekty/etheroom/) kanál na našem [Discordu](komunikacni-kanaly.md#discord-chat)
+* Místo: ****[\#etheroom](projekty/etheroom/)
 
 {% hint style="info" %}
 Všechny události, včetně nejbližšího governance callu, najdete v [našem kalendáři](https://forum.gwei.cz/calendar).
