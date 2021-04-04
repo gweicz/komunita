@@ -16,5 +16,7 @@ Nezisková **decentralizovaná autonomní organizace** \(DAO\) vytvořená za ú
 * užitečné nástroje
 * komunitní setkání
 
+Summoners: [@tree](https://forum.gwei.cz/u/tree) 
+
 
 

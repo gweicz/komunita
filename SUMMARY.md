@@ -22,6 +22,7 @@
 * [DeFi Toolkit](projekty/defi-toolkit.md)
 * [CZ/SK Kryptoscéna](projekty/czsk-kryptoscena.md)
 * [BohemianDAO](projekty/bohemiandao.md)
+* [Bankless.cz](projekty/bankless.cz.md)
 
 ---
 

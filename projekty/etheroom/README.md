@@ -37,3 +37,7 @@ Kdokoliv má možnost udělat tzv. “Etheroom Session” na jakékoliv téma so
 6. Ujistěte se, že zvolená kategorie tématu je `#etheroom`.
 7. Vytvořte session - tlačítko “Vytvořit téma”.
 
+## Máte nápad na nový pořad?
+
+Zastavte se na našem [Discordu](../../komunikacni-kanaly.md#discord-chat) nebo napište na [Fórum](../../komunikacni-kanaly.md#forum).
+
