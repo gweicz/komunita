@@ -6,6 +6,7 @@
   * [Discord](komunikacni-kanaly/discord.md)
   * [GitHub](komunikacni-kanaly/github.md)
   * [Twitter](komunikacni-kanaly/twitter.md)
+  * [HackMD](komunikacni-kanaly/hackmd.md)
 * [Council](council.md)
 * [Governance Call](governance-call/README.md)
   * [Seznam setkání](governance-call/seznam-setkani.md)
