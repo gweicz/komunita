@@ -8,26 +8,21 @@ description: Důležité milníky naší komunity
 
 ### Duben 2021
 
-* 07.04.2021 - [_Governance Call \#6_](https://forum.gwei.cz/t/7-4-18-00-governance-call-6/326).
+* 08.04.2021 - První díl pravidelného pořadu "[_Pitevna_](projekty/etheroom/pitevna.md)" \(\#etheroom\).
 * 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz) \(Git repozitář\).
 * 01.04.2021 - Nová dokumentace komunity na adrese [_komunita.gwei.cz_](https://komunita.gwei.cz) \(GitBook\).
 
 ### Březen 2021
 
 * 25.03.2021 - Náš Discord chat překonal hranici 500 uživatelů.
-* 24.03.2021 - [_Governance Call \#5_](https://forum.gwei.cz/t/governance-call-5/320).
-* 10.03.2021 - [_Governance Call \#4_](https://forum.gwei.cz/t/governance-call-4/261).
-  * Inagurace [Gwei.cz Councilu](council.md) \(rada starších\).
+* 10.03.2021 - Inagurace [Gwei.cz Councilu](council.md) \(rada starších\).
 
 ### Únor 2021
 
-* 24.02.2021 - [_Governance Call \#3_](https://forum.gwei.cz/t/governance-call-3/253).
-* 17.02.2021 - [_Governance Call \#2_](https://forum.gwei.cz/t/governance-call-2/213).
-* 15.02.2021 - První díl pravidelného pořadu "[_Pálíme Ether_](https://forum.gwei.cz/t/serie-palime-ether/235)" \(\#etheroom\).
-* 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](https://forum.gwei.cz/t/serie-inkubator-kazdy-druhy-ctvrtek-18-00/215)" \(\#etheroom\).
-* 10.02.2021 - _Governance Call \#1_.
+* 15.02.2021 - První díl pravidelného pořadu "[_Pálíme Ether_](projekty/etheroom/palime-ether.md)" \(\#etheroom\).
+* 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](projekty/etheroom/inkubator.md)" \(\#etheroom\).
 * 03.02.2021 - _Governance Call \#0_. Historicky první veřejný call v naší \#etheroom.
-* 03.02.2021 - Vznik hlasové místnosti [_\#etheroom_](https://forum.gwei.cz/t/etheroom-nas-audio-chat-kanal-na-discordu/220) na našem Discord chatu.
+* 03.02.2021 - Vznik hlasové místnosti [_\#etheroom_](projekty/etheroom/) na našem Discord chatu.
 
 ## 2020
 

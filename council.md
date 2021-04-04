@@ -7,7 +7,7 @@ description: Rada starších
 Nejaktivnější členové naší komunity, kteří společně komunitu řídí, směrují a vystupují za ní navenek.
 
 {% hint style="success" %}
-Council se schází pravidelně každé dva týdny na veřejném [Governance Callu](governance-call.md).
+Council se schází pravidelně každé dva týdny na veřejném [Governance Callu](governance-call/).
 {% endhint %}
 
 ## Seznam členů \(14\)

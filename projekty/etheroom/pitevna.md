@@ -13,12 +13,12 @@ Série rozhovorů, kde společně snažíme představit a rozebrat jeden konkré
 
 | Díl | Datum | Fenomén |
 | :--- | :--- | :--- |
-| \#0 | 8. dubna 2021 | [Stablecoiny](https://forum.gwei.cz/t/tema-stablecoiny/335) |
-| \#1 | 22. dubna 2021 | Layer 2 & sidechainy |
-| \#2 | 6. května 2021 | NFT |
-| \#3 | 20. května 2021 | BTC \(maximalismus\) |
-| \#4 | 3. června 2021 | ? |
-| \#5 | 17. června 2021 | ? |
+| \#0 | 08.04.2021 | [Stablecoiny](https://forum.gwei.cz/t/tema-stablecoiny/335) |
+| \#1 | 22.04.2021 | Layer 2 & sidechainy |
+| \#2 | 06.05.2021 | NFT |
+| \#3 | 20.05.2021 | BTC \(maximalismus\) |
+| \#4 | 03.06.2021 | ? |
+| \#5 | 17.06.2021 | ? |
 
 {% hint style="success" %}
 Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co říci, pak nás určite kontaktujte na [Discordu](../../komunikacni-kanaly.md#discord-chat) v kanálu \#komunita.
