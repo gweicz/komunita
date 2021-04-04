@@ -18,7 +18,7 @@ Připojte se každý druhý čtvrtek 18:00 na náš Discord do kanálu [\#ethero
 * váš vznikající projekt :\)
 
 {% hint style="success" %}
-Nebojte se přijít i pokud nemáte konkrétní představu či jde jen o maličkost, _Inkubátor_ je prostor kde můžete získat cenný feedback od dalších členů komunity.
+Nebojte se přijít i pokud nemáte konkrétní představu či jde jen o maličkost, _**Inkubátor**_ **je prostor kde můžete získat cenný feedback od dalších členů komunity.**
 {% endhint %}
 
 Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@kleinpetr](https://forum.gwei.cz/u/kleinpetr)

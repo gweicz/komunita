@@ -9,6 +9,8 @@ Náš [Council](../council.md) pravidelně pořádá online komunitní call, kde
 * Den a čas: **každou** _**druhou**_ **středu 18:00**
 * Místo: ****[\#etheroom](../projekty/etheroom/)
 
+{% page-ref page="seznam-setkani.md" %}
+
 {% hint style="info" %}
 Všechny události, včetně nejbližšího governance callu, najdete v [našem kalendáři](https://forum.gwei.cz/calendar).
 {% endhint %}

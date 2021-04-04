@@ -2,14 +2,14 @@
 description: Důležité milníky naší komunity
 ---
 
-# Historie
+# Historie komunity
 
 ## 2021
 
 ### Duben 2021
 
 * 08.04.2021 - První díl pravidelného pořadu "[_Pitevna_](projekty/etheroom/pitevna.md)" \(\#etheroom\).
-* 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz) \(Git repozitář\).
+* 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz).
 * 01.04.2021 - Nová dokumentace komunity na adrese [_komunita.gwei.cz_](https://komunita.gwei.cz) \(GitBook\).
 
 ### Březen 2021
@@ -21,7 +21,7 @@ description: Důležité milníky naší komunity
 
 * 15.02.2021 - První díl pravidelného pořadu "[_Pálíme Ether_](projekty/etheroom/palime-ether.md)" \(\#etheroom\).
 * 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](projekty/etheroom/inkubator.md)" \(\#etheroom\).
-* 03.02.2021 - _Governance Call \#0_. Historicky první veřejný call v naší \#etheroom.
+* 03.02.2021 - [_Governance Call_](governance-call/) _\#0_. Historicky první veřejný call v naší \#etheroom.
 * 03.02.2021 - Vznik hlasové místnosti [_\#etheroom_](projekty/etheroom/) na našem Discord chatu.
 
 ## 2020

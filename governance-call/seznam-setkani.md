@@ -2,7 +2,7 @@
 description: Seznam všech setkání našeho Councilu
 ---
 
-# Seznam setkání
+# Seznam Governance Callů
 
 Zde najdete seznam všech proběhlých a plánovaných [Governance Call](./) setkání.
 

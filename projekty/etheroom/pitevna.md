@@ -4,7 +4,7 @@ description: Diskuze jednoho konkrétního fenoménu
 
 # Pitevna
 
-Série rozhovorů, kde společně snažíme představit a rozebrat jeden konkrétní fenomén v Ethereu, DeFi nebo kryptoměnách obecně.
+Série otevřených rozhovorů, kde společně snažíme představit a rozebrat jeden konkrétní fenomén v Ethereu, DeFi nebo kryptoměnách obecně.
 
 * Den a čas: **každý druhý čtvrtek 20:00**
 * Místo: [\#etheroom](./)
