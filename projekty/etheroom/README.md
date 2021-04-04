@@ -6,6 +6,8 @@ description: 'Hlasová místnost s pravidelným programem, kde se scházíme a d
 
 Na našem [Discord serveru](../../komunikacni-kanaly.md#discord-chat) máme audio kanál **\#etheroom**, který využíváme na různé naše komunitní setkání.
 
+[🔗](https://emojipedia.org/link/#:~:text=Emoji%20Meaning&text=Used%20as%20an%20icon%20for,to%20Emoji%201.0%20in%202015.)[Přejít na náš Discord️](https://chat.gwei.cz)
+
 {% hint style="info" %}
 Všechny události jsou viditelné v našem [Kalendáři](https://forum.gwei.cz/calendar), který si můžete i exportovat či propojit s vaším kalendářem.
 {% endhint %}
