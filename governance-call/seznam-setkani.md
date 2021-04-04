@@ -2,9 +2,9 @@
 description: Seznam všech setkání našeho Councilu
 ---
 
-# Seznam Governance Callů
+# Seznam setkání
 
-Zde najdete seznam všech proběhlých a plánovaných [Governance Call](./) setkání.
+Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) setkání.
 
 | Číslo | Datum | Organizátor |
 | :--- | :--- | :--- |
@@ -19,5 +19,7 @@ Zde najdete seznam všech proběhlých a plánovaných [Governance Call](./) set
 | **\#1** | **10.02.2021** | [@tree](https://forum.gwei.cz/u/tree) |
 | **\#0** | **03.02.2021** | [@tree](https://forum.gwei.cz/u/tree) |
 
-
+{% hint style="info" %}
+V organizaci callů se střídají členové našeho [Councilu](../council.md).
+{% endhint %}
 

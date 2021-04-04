@@ -4,7 +4,7 @@
 * [Komunikační kanály](komunikacni-kanaly.md)
 * [Council](council.md)
 * [Governance Call](governance-call/README.md)
-  * [Seznam Governance Callů](governance-call/seznam-setkani.md)
+  * [Seznam setkání](governance-call/seznam-setkani.md)
 * [Historie komunity](historie.md)
 * [Partneři](partneri.md)
 * [Podpořte nás](podporte-nas/README.md)
