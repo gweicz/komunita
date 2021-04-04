@@ -20,3 +20,7 @@ Všechny naše projekty jsou open-source a zdrojové kódy najdete v repozitář
 
 V Ethereu/DeFi se všechno děje hlavně na Twitteru, tak se také snažíme být také součástí.
 
+## [HackMD](hackmd.md) \([notes.gwei.cz](https://notes.gwei.cz)\)
+
+Místo pro naše zápisky a další dokumenty.
+

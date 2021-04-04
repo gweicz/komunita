@@ -21,7 +21,7 @@ Série otevřených rozhovorů, kde společně snažíme představit a rozebrat 
 | \#5 | 17.06.2021 | ? |
 
 {% hint style="success" %}
-Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co říci, pak nás určite kontaktujte na [Discordu](../../komunikacni-kanaly/#discord-chat) v kanálu \#komunita.
+Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co říci, pak nás určite kontaktujte na [Discordu](../../komunikacni-kanaly/discord.md) v kanálu \#komunita.
 {% endhint %}
 
 Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@m0xt](https://forum.gwei.cz/u/m0xt)
