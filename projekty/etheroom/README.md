@@ -19,9 +19,9 @@ Každý týden děláme několik pravidelných událostí.
 | Den a čas | Série | Popis |
 | :--- | :--- | :--- |
 | úterý 20:00 | [Pálíme Ether](palime-ether.md) | Diskuze novinek v ETH/DeFi ekosystému |
-| středa 20:00 \(ob týden\) | [Governance Call](../../governance-call.md) | Naše projekty a rozvoj komunity |
-| čtvrtek 18:00 \(ob týden\) | [Inkubátor](inkubator.md) | Akcelerátor nápadů na zajímavé projekty |
-| čtvrtek 20:00 \(ob týden\) | [Pitevna](pitevna.md) | Diskuze jednoho konkrétního fenoménu |
+| každá druhá středa 20:00 | [Governance Call](../../governance-call.md) | Naše projekty a rozvoj komunity |
+| každý druhý čtvrtek 18:00 | [Inkubátor](inkubator.md) | Akcelerátor nápadů na zajímavé projekty |
+| každý druhý čtvrtek 20:00 | [Pitevna](pitevna.md) | Diskuze jednoho konkrétního fenoménu |
 
 ### Nepravidelné události
 
