@@ -14,11 +14,11 @@ Série otevřených rozhovorů, kde společně snažíme představit a rozebrat 
 | Díl | Datum | Fenomén |
 | :--- | :--- | :--- |
 | \#0 | 08.04.2021 | [Stablecoiny](https://forum.gwei.cz/t/tema-stablecoiny/335) |
-| \#1 | 22.04.2021 | Layer 2 & sidechainy |
-| \#2 | 06.05.2021 | NFT |
-| \#3 | 20.05.2021 | BTC \(maximalismus\) |
-| \#4 | 03.06.2021 | ? |
-| \#5 | 17.06.2021 | ? |
+| \#1 | 22.04.2021 | _Layer 2 & sidechainy_ |
+| \#2 | 06.05.2021 | _NFT_ |
+| \#3 | 20.05.2021 | _BTC \(maximalismus\)_ |
+| \#4 | 03.06.2021 | _Daně a regulace_ |
+| \#5 | 17.06.2021 | _PoS vs PoW_ |
 
 {% hint style="success" %}
 Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co říci, pak nás určite kontaktujte na [Discordu](../../komunikacni-kanaly/discord.md) v kanálu \#komunita.
