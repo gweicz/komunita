@@ -26,6 +26,10 @@ description: Důležité milníky naší komunity
 
 ## 2020
 
+### Srpen 2020
+
+* 20.08.2020 - První komunitní meetup v Praze [_Bar Pradlenka_](https://goo.gl/maps/rwjEbwBS82itsRKD8).
+
 ### Duben 2020
 
 * 14.04.2020 - Účastnili jsme se 5. kola [_Gitcoin Grants_](https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community).
