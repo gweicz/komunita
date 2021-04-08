@@ -10,6 +10,7 @@ Připojte se každý druhý čtvrtek 18:00 na náš Discord do kanálu [\#ethero
 
 * Den a čas: **každý druhý čtvrtek 18:00**
 * Místo: [\#etheroom](./)
+* Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@kleinpetr](https://forum.gwei.cz/u/kleinpetr)
 
 ### Aktuálně řešíme
 
@@ -20,6 +21,4 @@ Připojte se každý druhý čtvrtek 18:00 na náš Discord do kanálu [\#ethero
 {% hint style="success" %}
 Nebojte se přijít i pokud nemáte konkrétní představu či jde jen o maličkost, _**Inkubátor**_ **je prostor kde můžete získat cenný feedback od dalších členů komunity.**
 {% endhint %}
-
-Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@kleinpetr](https://forum.gwei.cz/u/kleinpetr)
 

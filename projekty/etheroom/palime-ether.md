@@ -8,6 +8,7 @@ Rozhovory o aktuálním dění v DeFi a Ethereu, kde společně probíráme co s
 
 * Den a čas: **každé úterý 20:00**
 * Místo: [\#etheroom](./)
+* Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@m0xt](https://forum.gwei.cz/u/m0xt)
 
 ### Hlavní témata
 
@@ -19,6 +20,4 @@ Rozhovory o aktuálním dění v DeFi a Ethereu, kde společně probíráme co s
 {% hint style="success" %}
 Kdokoliv se může zapojit do debaty, nebo otevřít téma které ho v posledních dnech zaujalo. **Podpořte projekty, které vás zajímají, tím že se o nich zmíníte.**
 {% endhint %}
-
-Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@m0xt](https://forum.gwei.cz/u/m0xt)
 
