@@ -12,15 +12,13 @@ Strukturovaná diskuze, která umožňuje bavit se o tématech trošku více do 
 
 Rychlá komunikace \(chat\) v rámci komunity a vzájemné informování o novinkách z našeho ekosystému. Konají se zde i pravidelná online setkání v audio kanálu [\#etheroom](../projekty/etheroom/).
 
-## 👨💻[GitHub](github.md) ~ [github.com/gweicz](https://github.com/gweicz)
+## 📰 [Blog](blog.md) ~ [medium.com/@gweicz](https://medium.com/@gweicz)
 
-Všechny naše projekty jsou open-source a zdrojové kódy najdete v repozitářích naší GitHub organizace.
+Informování o našich projektech a o tom co se děje v komunitě.
 
 ## 🐦[Twitter](twitter.md) ~ [@gweicz](https://twitter.com/gweicz)
 
 V Ethereu/DeFi se všechno děje hlavně na Twitteru, tak se také snažíme být také součástí.
 
-## 📖[HackMD](hackmd.md) ~ [notes.gwei.cz](https://notes.gwei.cz)
 
-Místo pro naše zápisky a další dokumenty.
 
