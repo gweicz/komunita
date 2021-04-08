@@ -22,8 +22,6 @@ Série otevřených rozhovorů, kde společně snažíme představit a rozebrat 
 
 ### Minulé díly
 
-
-
 | Díl | Datum | Fenomén |
 | :--- | :--- | :--- |
 | \#0 | 08.04.2021 | [Stablecoiny](https://forum.gwei.cz/t/tema-stablecoiny/335) |
