@@ -8,6 +8,7 @@
   * [Twitter](komunikacni-kanaly/twitter.md)
 * [Nástroje](nastroje/README.md)
   * [GitHub](nastroje/github.md)
+  * [GitBook](nastroje/gitbook.md)
   * [Trello](nastroje/trello.md)
   * [HackMD](nastroje/hackmd.md)
 * [Council](council.md)

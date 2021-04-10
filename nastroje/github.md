@@ -9,11 +9,11 @@ description: Zdrojové kódy našich projektů
 
 Repozitáře našich projektů a jejich zdrojových kódů. Kdokoliv, kdo má [GitHub účet](https://github.com/join) může vytvořit nový podnět \(issue\) nebo navrhnout změny \(PR\). Najdete tam například i [tuto dokumentaci](https://github.com/gweicz/komunita).
 
-## Repozitáře
+## Naše repozitáře
 
-* [komunita](https://github.com/gweicz/komunita) - Tato komunitní dokumentace
 * [web](https://github.com/gweicz/web) - Zdrojové kódy naší landing-page na gwei.cz
-* [defi-toolkit](https://github.com/gweicz/defi-toolkit) - Projekt [DeFi Toolkit](../projekty/defi-toolkit.md)
+* [komunita](https://github.com/gweicz/komunita) - Tato komunitní dokumentace \(viz. [GitBook](gitbook.md)\)
+* [defi-toolkit](https://github.com/gweicz/defi-toolkit) - Projekt [DeFi Toolkit](../projekty/defi-toolkit.md) \(záloha dokumentu na [HackMD](hackmd.md)\)
 * [brand](https://github.com/gweicz/brand) - Naše loga a další vizuální materiály
 
 ## Náhled
