@@ -11,6 +11,7 @@
   * [GitBook](nastroje/gitbook.md)
   * [Trello](nastroje/trello.md)
   * [HackMD](nastroje/hackmd.md)
+  * [Kalendář](nastroje/kalendar.md)
 * [Council](council.md)
 * [Governance Call](governance-call/README.md)
   * [Seznam setkání](governance-call/seznam-setkani.md)
