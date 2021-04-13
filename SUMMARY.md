@@ -15,6 +15,7 @@
 * [Governance Call](governance-call/README.md)
   * [Seznam setkání](governance-call/seznam-setkani.md)
 * [Historie komunity](historie.md)
+* [Media Kit](media-kit.md)
 * [Partneři](partneri.md)
 * [Podpořte nás](podporte-nas/README.md)
   * [Pojďte s námi tvořit](podporte-nas/aktivni-ucast.md)
