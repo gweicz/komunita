@@ -4,6 +4,8 @@ description: 'Strukturovaná diskuze, novinky v komunitě a našich projektech'
 
 # Fórum
 
+{% embed url="http://forum.gwei.cz/" %}
+
 * Adresa: [**forum.gwei.cz**](https://forum.gwei.cz/)\*\*\*\*
 * Spravuje: [Council](../council.md)
 

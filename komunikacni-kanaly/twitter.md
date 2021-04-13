@@ -13,7 +13,9 @@ O čem je platforma [Twitter](https://twitter.com/) asi není nutné vysvětlova
 
 ## Náhled
 
+{% embed url="https://twitter.com/gweicz" %}
+
+## Screenshot
+
 ![N&#xE1;&#x161; profil na Twitteru](../.gitbook/assets/twitter-screenshot.png)
-
-
 

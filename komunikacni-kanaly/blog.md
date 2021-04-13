@@ -4,6 +4,8 @@ description: Zpravodajství z naší komunity
 
 # Blog
 
+{% embed url="https://medium.com/gweicz" %}
+
 * Adresa: [**medium.com/gweicz**](https://medium.com/gweicz)\*\*\*\*
 * Spravuje: [@tree](https://forum.gwei.cz/u/tree)
 * Přístup: [Twitter správci](twitter.md) \(propojeno s Twitterem\)
