@@ -30,3 +30,8 @@ Série otevřených rozhovorů, kde společně snažíme představit a rozebrat 
 Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co říci, pak nás určite kontaktujte na [Discordu](../../komunikacni-kanaly/discord.md) v kanálu \#komunita.
 {% endhint %}
 
+### Další témata do budoucna
+
+* Identita - @radek
+* Soukromí - privátní transakce
+

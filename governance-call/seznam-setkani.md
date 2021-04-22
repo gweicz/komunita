@@ -10,10 +10,8 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 
 | Číslo | Datum | Organizátor |
 | :--- | :--- | :--- |
-| **\#7** | **21.04.2021** | \*\*\*\*[**@kleinpetr**](https://forum.gwei.cz/u/kleinpetr)\*\*\*\* |
-| _\#8_ | _05.05.2021_ | ? |
-| _\#9_ | _19.05.2021_ | ? |
-| _\#10_ | _02.06.2021_ | ? |
+| **\#7** | **28.04.2021** | \*\*\*\*[**@kleinpetr**](https://forum.gwei.cz/u/kleinpetr)\*\*\*\* |
+| _\#8_ | _12.05.2021_ | ? |
 
 ## Uskutečněné
 
