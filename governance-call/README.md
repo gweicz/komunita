@@ -6,7 +6,7 @@ description: Veřejné setkání jádra naší komunity
 
 Náš [Council](../council.md) pravidelně pořádá online komunitní call, kde rozebíráme naše projekty a celkový rozvoj komunity. Call je otevřený všem!
 
-* Den a čas: **každou** _**druhou**_ **středu 18:00**
+* Den a čas: **každou** _**druhou**_ **středu 20:00**
 * Místo: ****[\#etheroom](../projekty/etheroom/)
 
 {% page-ref page="seznam-setkani.md" %}
@@ -19,11 +19,11 @@ Všechny události, včetně nejbližšího governance callu, najdete v [našem 
 
 | Čas | Popis |  |
 | :--- | :--- | :--- |
-| 18:00 | rozjezd, nezávazná debata \(10 min\) | 10 min |
-| **18:10** | **"state of nation" - informování o stavu komunity** | 20 min |
-| **18:30** | **diskuze jednotlivých bodů programu** | 55 min |
-| 19:25 | volba moderátora dalšího callu | 5 min |
-| 19:30 | ukončení hlavního programu + afterparty |  |
+| 20:00 | rozjezd, nezávazná debata \(10 min\) | 10 min |
+| **20:10** | **"state of nation" - informování o stavu komunity** | 20 min |
+| **20:30** | **diskuze jednotlivých bodů programu** | 55 min |
+| 21:25 | volba moderátora dalšího callu | 5 min |
+| 21:30 | ukončení hlavního programu + afterparty |  |
 
 ## Organizace
 
