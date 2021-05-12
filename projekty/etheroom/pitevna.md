@@ -14,10 +14,10 @@ Série otevřených rozhovorů, kde společně snažíme představit a rozebrat 
 
 | Díl | Datum | Fenomén |
 | :--- | :--- | :--- |
-| **\#2** | **05.05.2021** | \*\*\*\*[**NFT**](https://forum.gwei.cz/t/pitevna-2-nft/366) |
-| _\#3_ | _19.05.2021_ | _BTC \(maximalismus\)_ |
-| _\#4_ | _02.06.2021_ | _Daně a regulace_ |
-| _\#5_ | _16.06.2021_ | _PoS vs PoW_ |
+| **\#2** | **19.05.2021** | \*\*\*\*[**NFT**](https://forum.gwei.cz/t/pitevna-2-nft/366) |
+| _\#3_ | _02.06.2021_ | _?_ |
+| _\#4_ | _16.06.2021_ | _?_ |
+| _\#5_ | _30.06.2021_ | _?_ |
 
 ### Minulé díly
 
@@ -32,6 +32,10 @@ Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co ř�
 
 ### Další témata do budoucna
 
+* DAO
+* PoS vs PoW
+* BTC \(maximalismus\)
 * Identita - @radek
 * Soukromí - privátní transakce
+* Daně a regulace
 

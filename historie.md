@@ -8,14 +8,16 @@ description: Důležité milníky naší komunity
 
 ### Duben 2021
 
+* 24.04.2021 - Spuštění projektu [_Bankless.cz_](https://bankless.cz/) \([úvodní článek](https://bankless.cz/novinky/historie-cryptopandy-a-vznik-bankless-cz)\). 
+* 19.04.2021 - Summoning [_BohemianDAO_](http://bohemiandao.cz/).
 * 08.04.2021 - První díl pravidelného pořadu "[_Pitevna_](projekty/etheroom/pitevna.md)" \(\#etheroom\).
 * 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz).
 * 01.04.2021 - Nová dokumentace komunity na adrese [_komunita.gwei.cz_](https://komunita.gwei.cz) \(GitBook\).
 
 ### Březen 2021
 
-* 25.03.2021 - Náš [Discord](komunikacni-kanaly/discord.md) chat překonal hranici 500 uživatelů.
-* 10.03.2021 - Inagurace [Gwei.cz Councilu](council.md) \(rada starších\).
+* 25.03.2021 - Náš [_Discord_](komunikacni-kanaly/discord.md) chat překonal hranici 500 uživatelů.
+* 10.03.2021 - Inagurace [_Gwei.cz Councilu_](council.md) \(rada starších\).
 
 ### Únor 2021
 
@@ -28,7 +30,7 @@ description: Důležité milníky naší komunity
 
 ### Srpen 2020
 
-* 20.08.2020 - První komunitní meetup v Praze [_Bar Pradlenka_](https://goo.gl/maps/rwjEbwBS82itsRKD8).
+* 20.08.2020 - První komunitní meetup v Praze - [_Bar Pradlenka_](https://goo.gl/maps/rwjEbwBS82itsRKD8) __\([událost](https://forum.gwei.cz/t/gwei-cz-community-meetup-0-ct-20-8-2020-praha/91)\).
 
 ### Duben 2020
 
