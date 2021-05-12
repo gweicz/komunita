@@ -10,7 +10,7 @@ Nejaktivnější členové naší komunity, kteří společně komunitu řídí,
 Council se schází pravidelně každé dva týdny na veřejném [Governance Callu](governance-call/).
 {% endhint %}
 
-## Seznam členů \(14\)
+## Seznam členů \(13\)
 
 | Fórum | Discord |
 | :--- | :--- |
