@@ -6,6 +6,10 @@ description: Důležité milníky naší komunity
 
 ## 2021
 
+### Červenec 2021
+
+* 12.07.2021 - BohemianDAO: [_první grant_](https://app.daohaus.club/dao/0x64/0xf762ace2c215fdad031b33c656982718c4084786/proposals/4) pro "Holky v Kryptu".
+
 ### Duben 2021
 
 * 24.04.2021 - Spuštění projektu [_Bankless.cz_](https://bankless.cz/) \([úvodní článek](https://bankless.cz/novinky/historie-cryptopandy-a-vznik-bankless-cz)\). 
