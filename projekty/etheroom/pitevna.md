@@ -12,19 +12,17 @@ Série otevřených rozhovorů, kde společně snažíme představit a rozebrat 
 
 ### Plánované díly
 
-| Díl | Datum | Fenomén |
-| :--- | :--- | :--- |
-| **\#2** | **19.05.2021** | \*\*\*\*[**NFT**](https://forum.gwei.cz/t/pitevna-2-nft/366) |
-| _\#3_ | _02.06.2021_ | _?_ |
-| _\#4_ | _16.06.2021_ | _?_ |
-| _\#5_ | _30.06.2021_ | _?_ |
+| Díl | Datum | Fenomén | Hosté |
+| :--- | :--- | :--- | :--- |
+| \#3 | 28.07.2021 | DAO | ? |
 
 ### Minulé díly
 
-| Díl | Datum | Fenomén |
-| :--- | :--- | :--- |
-| \#1 | 22.04.2021 | [Layer 2, sidechainy](https://forum.gwei.cz/t/pitevna-1-layer-2-sidechainy/348) |
-| \#0 | 08.04.2021 | [Stablecoiny](https://forum.gwei.cz/t/tema-stablecoiny/335) |
+| Díl | Datum | Fenomén | Hosté |
+| :--- | :--- | :--- | :--- |
+| \#2 | 27.05.2021 | [NFT](https://forum.gwei.cz/t/pitevna-2-nft/366) | [@reesistancee](https://twitter.com/reesistancee) |
+| \#1 | 22.04.2021 | [Layer 2, sidechainy](https://forum.gwei.cz/t/pitevna-1-layer-2-sidechainy/348) |  |
+| \#0 | 08.04.2021 | [Stablecoiny](https://forum.gwei.cz/t/tema-stablecoiny/335) |  |
 
 {% hint style="success" %}
 Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co říci, pak nás určite kontaktujte na [Discordu](../../komunikacni-kanaly/discord.md) v kanálu \#komunita.
@@ -32,7 +30,6 @@ Pokud máte nápad na nový díl Pitevny a myslíte si, že k němu máte co ř�
 
 ### Další témata do budoucna
 
-* DAO
 * PoS vs PoW
 * BTC \(maximalismus\)
 * Identita - @radek
