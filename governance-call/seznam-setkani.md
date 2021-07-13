@@ -10,7 +10,7 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 
 | Číslo | Datum | Organizátor |
 | :--- | :--- | :--- |
-| \#10 | 14.07.2021 | [@Ajworry](https://forum.gwei.cz/u/ajworry) |
+| [\#10](https://forum.gwei.cz/t/governance-call-10/411) | 21.07.2021 | [@Ajworry](https://forum.gwei.cz/u/ajworry) |
 
 ## Uskutečněné
 
