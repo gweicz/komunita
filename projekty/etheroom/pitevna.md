@@ -6,7 +6,7 @@ description: Diskuze jednoho konkrétního fenoménu
 
 Série otevřených rozhovorů, kde společně snažíme představit a rozebrat jeden konkrétní fenomén v Ethereu, DeFi nebo kryptoměnách obecně.
 
-* Den a čas: **každou druhou středu 20:00** \([kalendář](https://forum.gwei.cz/calendar)\)
+* Den a čas: **středa 20:00** \([kalendář](https://forum.gwei.cz/calendar)\)
 * Místo: [\#etheroom](./)
 * Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@m0xt](https://forum.gwei.cz/u/m0xt)
 

@@ -8,7 +8,7 @@ description: Jaké nástroje používame
 
 Všechny naše projekty jsou open-source a zdrojové kódy najdete v repozitářích naší GitHub organizace.
 
-## 📘 [GitBook](gitbook.md)
+## 📘 [GitBook](gitbook.md) ~ [komunita.gwei.cz](https://komunita.gwei.cz/)
 
 Pomáhá nám vytvářet naše projektové dokumentace, například tuto.
 
