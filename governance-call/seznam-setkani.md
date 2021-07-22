@@ -10,12 +10,13 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 
 | Číslo | Datum | Organizátor |
 | :--- | :--- | :--- |
-| [\#10](https://forum.gwei.cz/t/governance-call-10/411) | 21.07.2021 | [@Ajworry](https://forum.gwei.cz/u/ajworry) |
+| \#11 | 11.08.2021 | [@vojtch](https://forum.gwei.cz/u/vojtch) |
 
 ## Uskutečněné
 
 | Číslo | Datum | Organizátor |
 | :--- | :--- | :--- |
+| [\#10](https://forum.gwei.cz/t/governance-call-10/411) | 21.07.2021 | [@Ajworry](https://forum.gwei.cz/u/ajworry) |
 | [\#9](https://forum.gwei.cz/t/governance-call-9/375) | 09.06.2021 | [@m0xt](https://forum.gwei.cz/u/m0xt) |
 | [\#8](https://forum.gwei.cz/t/governance-call-8/370/2) | 12.05.2021 | [@cryptomar1o](https://forum.gwei.cz/u/cryptomar1o) |
 | [\#7](https://forum.gwei.cz/t/governance-call-7/356) | 28.04.2021 | [@kleinpetr](https://forum.gwei.cz/u/kleinpetr) |
