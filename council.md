@@ -10,7 +10,7 @@ Nejaktivnější členové naší komunity, kteří společně komunitu řídí,
 Council se schází pravidelně každé dva týdny na veřejném [Governance Callu](governance-call/).
 {% endhint %}
 
-## Seznam členů \(13\)
+## Seznam členů \(15\)
 
 | Fórum | Discord |
 | :--- | :--- |
@@ -25,8 +25,10 @@ Council se schází pravidelně každé dva týdny na veřejném [Governance Cal
 | [@kleinpetr](https://forum.gwei.cz/u/kleinpetr) | kleinpetr\#2938 |
 | [@Peky](https://forum.gwei.cz/u/peky) | Peky\#8276 |
 | [@petoun1](https://forum.gwei.cz/u/petoun1) | Petr.eth\#2951 |
+| [@radek](https://forum.gwei.cz/u/radek) | radek\#8947 |
 | [@rixcian](https://forum.gwei.cz/u/rixcian) | rixcian\#4383 |
 | [@tree](https://forum.gwei.cz/u/tree) | tree\#7466 |
+| [@vojtch](https://forum.gwei.cz/u/vojtch) | Vojtch\#6780 |
 
 Ustanovující složení: 
 
