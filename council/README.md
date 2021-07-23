@@ -6,9 +6,14 @@ description: Rada starších
 
 Nejaktivnější členové naší komunity, kteří společně komunitu řídí, směrují a vystupují za ní navenek.
 
-{% hint style="success" %}
-Council se schází pravidelně každé dva týdny na veřejném [Governance Callu](governance-call/).
-{% endhint %}
+## Úkoly councilu
+
+* Řízení a směrování komunity
+* Vystupování za komunitu navenek
+* Moderace [komunikačních kanálů](../komunikacni-kanaly/)
+* Rozvíjení [nástrojů a dokumentace](../nastroje/)
+* Správa [pokladny](pokladna.md) [🔑](https://emojipedia.org/key/)
+* Organizace [Governance Callů](governance-call/)
 
 ## Seznam členů \(15\)
 
@@ -26,11 +31,7 @@ Council se schází pravidelně každé dva týdny na veřejném [Governance Cal
 | [@Peky](https://forum.gwei.cz/u/peky) | Peky\#8276 |
 | [@petoun1](https://forum.gwei.cz/u/petoun1) | Petr.eth\#2951 |
 | [@radek](https://forum.gwei.cz/u/radek) | radek\#8947 |
-| [@rixcian](https://forum.gwei.cz/u/rixcian) | rixcian\#4383 |
-| [@tree](https://forum.gwei.cz/u/tree) | tree\#7466 |
+| [@rixcian](https://forum.gwei.cz/u/rixcian) [🔑](https://emojipedia.org/key/) | rixcian\#4383 |
+| [@tree](https://forum.gwei.cz/u/tree) [🔑](https://emojipedia.org/key/) | tree\#7466 |
 | [@vojtch](https://forum.gwei.cz/u/vojtch) | Vojtch\#6780 |
-
-Ustanovující složení: 
-
-* [https://forum.gwei.cz/t/gwei-cz-council-rada-starsich/264](https://forum.gwei.cz/t/gwei-cz-council-rada-starsich/264)
 

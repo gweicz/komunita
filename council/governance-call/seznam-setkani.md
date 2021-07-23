@@ -29,6 +29,6 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 | \#0 | 03.02.2021 | [@tree](https://forum.gwei.cz/u/tree) |
 
 {% hint style="info" %}
-V organizaci callů se střídají členové našeho [Councilu](../council.md).
+V organizaci callů se střídají členové našeho [Councilu](../).
 {% endhint %}
 

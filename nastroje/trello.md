@@ -5,9 +5,9 @@ description: Organizační nástroj
 # Trello
 
 * Workspace:[ **trello.com/gweicz**](https://trello.com/gweicz)\*\*\*\*
-* Spravuje: [Council](../council.md)
+* Spravuje: [Council](../council/)
 
-[Trello](http://trello.com/) aplikace je náš organizační nástroj pro správů úkolů na kterých právě pracujeme. Nástěnky jsou veřejné, ale přístup k editaci mají jen členové našeho [Councilu](../council.md).
+[Trello](http://trello.com/) aplikace je náš organizační nástroj pro správů úkolů na kterých právě pracujeme. Nástěnky jsou veřejné, ale přístup k editaci mají jen členové našeho [Councilu](../council/).
 
 ## Nástěnky \(boards\)
 

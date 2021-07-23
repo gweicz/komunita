@@ -14,7 +14,7 @@ Ke komunitě se může přidat každý, a to hned na několika [platformách](ko
 
 Můžete nám také [**pomoci s rozvojem komunitních projektů**](podporte-nas/), na kterých společně pracujeme a pomáháme tak celému Ethereum ekosystému.
 
-Každá komunita musí být alespoň v omezené míře spravována. U nás k tomu slouží [Council](council.md).
+Každá komunita musí být alespoň v omezené míře spravována. U nás k tomu slouží [Council](council/).
 
 ### 📃 Naše hodnoty
 

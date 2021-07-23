@@ -1,7 +1,7 @@
 # GitBook
 
 * Organizace: [**app.gitbook.com/@gweicz**](https://app.gitbook.com/@gweicz) \(přístupné jen pro editory\)
-* Spravuje: [Council](../council.md)
+* Spravuje: [Council](../council/)
 
 Pro vytváření dokumentace naší komunity a našich projektů využíváme nástroj [GitBook](https://www.gitbook.com/). Přístup k editaci mají jen oprávnění uživatelé.
 

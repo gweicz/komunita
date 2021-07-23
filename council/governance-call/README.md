@@ -4,10 +4,10 @@ description: Veřejné setkání jádra naší komunity
 
 # Governance Call
 
-Náš [Council](../council.md) pravidelně pořádá online komunitní call, kde rozebíráme naše projekty a celkový rozvoj komunity. Call je otevřený všem!
+Náš [Council](../) pravidelně pořádá online komunitní call, kde rozebíráme naše projekty a celkový rozvoj komunity. Call je otevřený všem!
 
 * Den a čas: **každou** _**druhou**_ **středu 20:00**
-* Místo: ****[\#etheroom](../projekty/etheroom/)
+* Místo: ****[\#etheroom](../../projekty/etheroom/)
 
 {% page-ref page="seznam-setkani.md" %}
 
@@ -27,7 +27,7 @@ Všechny události, včetně nejbližšího governance callu, najdete v [našem 
 
 ## Organizace
 
-V organizaci governance callu se střídají členové našeho [Councilu](../council.md). Na konci každého callu se vždy domluvíme na tom, kdo povede další.
+V organizaci governance callu se střídají členové našeho [Councilu](../). Na konci každého callu se vždy domluvíme na tom, kdo povede další.
 
 ### Úkoly organizátora
 

@@ -21,13 +21,13 @@ description: Důležité milníky naší komunity
 ### Březen 2021
 
 * 25.03.2021 - Náš [_Discord_](komunikacni-kanaly/discord.md) chat překonal hranici 500 uživatelů.
-* 10.03.2021 - Inagurace [_Gwei.cz Councilu_](council.md) \(rada starších\).
+* 10.03.2021 - Inagurace [_Gwei.cz Councilu_](council/) \(rada starších\).
 
 ### Únor 2021
 
 * 15.02.2021 - První díl pravidelného pořadu "[_Pálíme Ether_](projekty/etheroom/palime-ether.md)" \(\#etheroom\).
 * 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](projekty/etheroom/inkubator.md)" \(\#etheroom\).
-* 03.02.2021 - [_Governance Call_](governance-call/) _\#0_. Historicky první veřejný call v naší \#etheroom.
+* 03.02.2021 - [_Governance Call_](council/governance-call/) _\#0_. Historicky první veřejný call v naší \#etheroom.
 * 03.02.2021 - Vznik hlasové místnosti [_\#etheroom_](projekty/etheroom/) na našem Discord chatu.
 
 ## 2020
