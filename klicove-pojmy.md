@@ -12,7 +12,7 @@ Zatímco slovo "kontrakt" evokuje právní dohodu; v [Ethereu](klicove-pojmy.md#
 
 DeFi je zkratka anglického výrazu "Decentralized Finance", tedy v překladu "Decentralizované finance" \(nebo také "Otevřené finance"\). Jde o hnutí, které chce pomocí decentralizace a chytrých kontraktů proměnit staré finanční produkty v transparetní a trustless \(nevyžadující důvěru\) protokoly, které spolu budou komunikovat bez prostředníků.
 
-Jinak řečeno - cílem DeFi je vytvářet produkty, které běžně známe z tradičních finančních světů – možnost například půjčit si peníze nebo naopak půjčit někomu peníze, investovat, apod. Jediný rozdíl však je, že vše se vytváří na blockchainu – není tedy třeba tradičních postupů a nástrojů, jako bank, burz, apod. ale naopak – vše běží za pomocí smart kontraktů a interakce s nimi.
+Jinak řečeno - cílem DeFi je vytvářet produkty, které běžně známe z tradičních finančních světů – možnost například půjčit si peníze nebo naopak půjčit někomu peníze, investovat, apod. Jediný rozdíl však je, že vše se vytváří na blockchainu – není tedy třeba tradičních postupů a nástrojů, jako bank, burz, apod. ale naopak – vše běží za pomocí [smart kontraktů](klicove-pojmy.md#chytre-kontrakty-smart-kontrakty) a interakce s nimi.
 
 ## Decentralizované organizace \(DAO\)
 
