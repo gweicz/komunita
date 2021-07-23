@@ -10,7 +10,7 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 
 | Číslo | Datum | Organizátor |
 | :--- | :--- | :--- |
-| \#11 | 11.08.2021 | [@vojtch](https://forum.gwei.cz/u/vojtch) |
+| [\#11](https://forum.gwei.cz/t/governance-call-11/436) | 11.08.2021 | [@vojtch](https://forum.gwei.cz/u/vojtch) |
 
 ## Uskutečněné
 
