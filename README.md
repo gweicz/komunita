@@ -1,6 +1,6 @@
 # Vítejte na Gwei.cz
 
-_Gwei.cz je Česko/Slovenská komunita příznivců platformy_ [_Ethereum_](https://prirucka.gwei.cz/prirucka/#co-je-ethereum) _a hnutí okolo_ [_decentralizovaných financí_](https://prirucka.gwei.cz/prirucka/#co-jsou-to-decentralizovan%C3%A9-finance-defi) _\(DeFi\). Nezajímá nás spekulace na ceně, ale reálný technologický pokrok v otevřených a decentralizovaných službách, které v rámci DeFi mění svět tradičních financí. Fintech je minulost – DeFi budoucnost._
+_Gwei.cz je Česko/Slovenská komunita příznivců platformy_ [_Ethereum_](klicove-pojmy.md#ethereum) _a hnutí okolo_ [_decentralizovaných financí_](klicove-pojmy.md#decentralizovane-finance-defi) _\(DeFi\). Nezajímá nás spekulace na ceně, ale reálný technologický pokrok v otevřených a decentralizovaných službách, které v rámci DeFi mění svět tradičních financí. Fintech je minulost – DeFi budoucnost._
 
 ![](.gitbook/assets/eth-overview.png)
 
