@@ -10,9 +10,10 @@ Obsah z GitBooku je automaticky synchronizován s příslušným GitHub repozit�
 ## GitBook projekty
 
 * [komunita.gwei.cz](http://komunita.gwei.cz/) \([github](https://github.com/gweicz/komunita)\) - tato dokumentace
+* [docs.bohemiandao.cz](https://docs.bohemiandao.cz) \([github](https://github.com/gweicz/bohemiandao)\) - BohemianDAO dokumentace
 
 {% hint style="success" %}
-Pokud nemáte přístup k našemu GitBooku, pořád můžete navrhnout změny pomocí Pull Requestu \(PR\) v příslušném GitHub repozitáři.
+Pokud nemáte přístup k našemu GitBooku, pořád můžete navrhnout změny pomocí Pull Requestu \(PR\) v příslušném [GitHub repozitáři](https://github.com/gweicz).
 {% endhint %}
 
 
