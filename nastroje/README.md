@@ -20,5 +20,7 @@ Nástroj pro organizaci úkolů v rámci komunity.
 
 Místo pro naše zápisky a další dokumenty.
 
+## 📆 [Kalendář](kalendar.md) ~ [forum.gwei.cz/calendar](https://forum.gwei.cz/calendar)
 
+Události z naší komunity i významné události z našeho ekosystému.  
 

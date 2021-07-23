@@ -16,7 +16,7 @@ Můžete nám také [**pomoci s rozvojem komunitních projektů**](podporte-nas/
 
 Každá komunita musí být alespoň v omezené míře spravována. U nás k tomu slouží [Council](council/).
 
-### 📃 Naše hodnoty
+### 🗒Naše hodnoty
 
 * Otevřenost
 * Decentralizace
