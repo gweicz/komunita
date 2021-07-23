@@ -33,8 +33,6 @@
 * [Gwei.cz Summit](projekty/summit.md)
 * [DeFi Toolkit](projekty/defi-toolkit.md)
 * [CZ/SK Kryptoscéna](projekty/czsk-kryptoscena.md)
-* [BohemianDAO](https://bohemiandao.cz)
-* [Bankless.cz](https://bankless.cz)
 
 ---
 
