@@ -15,7 +15,7 @@ Nejaktivnější členové naší komunity, kteří společně komunitu řídí,
 * Správa [pokladny](pokladna.md) [🔑](https://emojipedia.org/key/)
 * Organizace [Governance Callů](governance-call/)
 
-## Seznam členů \(15\)
+## Členové councilu \(15\)
 
 | Fórum | Discord |
 | :--- | :--- |
