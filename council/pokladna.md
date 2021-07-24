@@ -10,12 +10,14 @@ Pokladna je ve fázi přípravy.
 
 Pro správu finančních prostředků naší komunity, která je zastoupena [Councilem](./), používáme [Gnosis Safe](https://gnosis-safe.io/), což je smart-kontrakt [multi-signature peněženka](https://bankless.cz/studium/co-to-je-multisignature-wallet).
 
-Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dary \(např. z [Gitcoin Grants](https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community#)\), platí se z ní různé výdaje \(např. server, doména atp.\), případně kontroluje naší [ENS](https://forum.gwei.cz/t/ethereum-name-service-ens-domenovy-system/420) doménu a další Web3 záležitosti. 
+Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dary \(např. z [Gitcoin Grants](https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community#)\), platí se z ní různé výdaje \(např. server, doména atp.\), případně kontroluje naší [ENS](https://forum.gwei.cz/t/ethereum-name-service-ens-domenovy-system/420) doménu a další [Web3](../klicove-pojmy.md#web3) záležitosti.
 
 ## Adresy peněženek
 
-* Ethereum: TODO
-* xDAI síť: TODO
+| Síť | Adresa |
+| :--- | :--- |
+| **Ethereum** | 0x000000000000000000000000000000000000dEaD |
+| \*\*\*\*[**xDai**](https://www.xdaichain.com/) | 0x000000000000000000000000000000000000dEaD |
 
 ## Přístup
 
