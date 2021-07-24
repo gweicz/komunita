@@ -26,12 +26,12 @@ Nejaktivnější členové naší komunity, kteří společně komunitu řídí,
 | [@cryptomar1o](https://forum.gwei.cz/u/cryptomar1o) | cryptomario\#0917 |
 | [@KryptoVlada](https://forum.gwei.cz/u/kryptovlada) | KryptoVláďa.eth\#5246 |
 | [@Mich](https://forum.gwei.cz/u/mich) | Mich\#3164 |
-| [@m0xt](https://forum.gwei.cz/u/m0xt) | m0xt\#0024 |
+| [@m0xt](https://forum.gwei.cz/u/m0xt) [🔑](https://emojipedia.org/key/) | m0xt\#0024 |
 | [@kleinpetr](https://forum.gwei.cz/u/kleinpetr) | kleinpetr\#2938 |
 | [@Peky](https://forum.gwei.cz/u/peky) | Peky\#8276 |
 | [@petoun1](https://forum.gwei.cz/u/petoun1) | Petr.eth\#2951 |
 | [@radek](https://forum.gwei.cz/u/radek) | radek\#8947 |
 | [@rixcian](https://forum.gwei.cz/u/rixcian) [🔑](https://emojipedia.org/key/) | rixcian\#4383 |
 | [@tree](https://forum.gwei.cz/u/tree) [🔑](https://emojipedia.org/key/) | tree\#7466 |
-| [@vojtch](https://forum.gwei.cz/u/vojtch) | Vojtch\#6780 |
+| [@vojtch](https://forum.gwei.cz/u/vojtch) [🔑](https://emojipedia.org/key/) | Vojtch\#6780 |
 

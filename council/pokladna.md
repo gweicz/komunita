@@ -30,7 +30,9 @@ O pokladnu se stará 5 vybraných členů councilu, kteří spravují prostředk
 | Jméno | Adresa |
 | :--- | :--- |
 | [@tree](https://forum.gwei.cz/u/tree) | 0xA1e2421A68f0208B75ACb0014a69E89b1F7492ea |
-| [@rixcian](https://forum.gwei.cz/u/rixcian) |  |
+| [@rixcian](https://forum.gwei.cz/u/rixcian) | 0x6f2a88EeA710c58bbB8F2681Bf8732Bfb4350062 |
+| [@vojtch](https://forum.gwei.cz/u/vojtch) | 0x5f6cb062bf7c915460d5d01f5b9dafc649f54155 |
+| [@m0xt](https://forum.gwei.cz/u/m0xt) | xx |
 
 ## Podíl v BohemianDAO
 
