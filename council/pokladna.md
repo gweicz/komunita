@@ -17,7 +17,7 @@ Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dar
 | Síť | Adresa |
 | :--- | :--- |
 | **Ethereum** | 0x000000000000000000000000000000000000dEaD |
-| \*\*\*\*[**xDai**](https://www.xdaichain.com/) | 0x000000000000000000000000000000000000dEaD |
+| \*\*\*\*[**xDai**](https://www.xdaichain.com/) | [0x41198CE04A731ad2F3F397FA898F9f34b9fe7002](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002/balances) |
 
 ## Přístup
 
@@ -32,7 +32,7 @@ O pokladnu se stará 5 vybraných členů councilu, kteří spravují prostředk
 | [@tree](https://forum.gwei.cz/u/tree) | 0xA1e2421A68f0208B75ACb0014a69E89b1F7492ea |
 | [@rixcian](https://forum.gwei.cz/u/rixcian) | 0x6f2a88EeA710c58bbB8F2681Bf8732Bfb4350062 |
 | [@vojtch](https://forum.gwei.cz/u/vojtch) | 0x5f6cb062bf7c915460d5d01f5b9dafc649f54155 |
-| [@m0xt](https://forum.gwei.cz/u/m0xt) | xx |
+| [@m0xt](https://forum.gwei.cz/u/m0xt) | 0x30DE0189dbefdDa0b2aAD5EB69A0d2A9F49eCD04 |
 | [@coinmandeer](https://forum.gwei.cz/u/coinmandeer) | 0xf5Fe364D18F4a5A53BADCe9a046ba74cfC97f6Fb |
 
 ## Podíl v BohemianDAO
