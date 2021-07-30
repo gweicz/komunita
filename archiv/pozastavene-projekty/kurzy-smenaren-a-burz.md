@@ -10,5 +10,5 @@ Projekt pozastaven, hledá se správce. [Více informací](https://forum.gwei.cz
 
 Autor: [@tree](https://forum.gwei.cz/u/tree)
 
-![](../.gitbook/assets/kurzy.png)
+![](../../.gitbook/assets/kurzy.png)
 

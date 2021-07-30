@@ -17,7 +17,7 @@ description: Zpravodajství z naší komunity
 * co se stalo v komunitě
 * informování o nových projektech / stavu současných
 * co se řešilo na [governance callech](../council/governance-call/)
-* [\#etheroom](../projekty/etheroom/) - o čem se mluvilo, o čem se bude mluvit \(plánovaný program\)
+* [\#etheroom](../udalosti/etheroom/) - o čem se mluvilo, o čem se bude mluvit \(plánovaný program\)
 
 {% hint style="info" %}
 Pokud rádi píšete, budeme rádi pokud nám s naším blogem pomůžete. Zastavte se na náš [Discord](discord.md).

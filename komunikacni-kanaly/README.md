@@ -10,7 +10,7 @@ Strukturovaná diskuze, která umožňuje bavit se o tématech trošku více do 
 
 ## 💬[Discord](discord.md) ~ [chat.gwei.cz](https://discord.gg/FpxwbnM)
 
-Rychlá komunikace \(chat\) v rámci komunity a vzájemné informování o novinkách z našeho ekosystému. Konají se zde i pravidelná online setkání v audio kanálu [\#etheroom](../projekty/etheroom/).
+Rychlá komunikace \(chat\) v rámci komunity a vzájemné informování o novinkách z našeho ekosystému. Konají se zde i pravidelná online setkání v audio kanálu [\#etheroom](../udalosti/etheroom/).
 
 ## 📰 [Blog](blog.md) ~ [medium.com/@gweicz](https://medium.com/@gweicz)
 

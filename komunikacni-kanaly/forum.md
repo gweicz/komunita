@@ -14,7 +14,7 @@ Fórum funguje na open source systému [Discourse](https://www.discourse.org/). 
 ### Hlavní stránky
 
 * [Kategorie](https://forum.gwei.cz/categories) - přehled všech kategorií
-* [Kalendář](https://forum.gwei.cz/calendar) - přehled všech komunitních událostí \(především v [\#etheroom](../projekty/etheroom/)\)
+* [Kalendář](https://forum.gwei.cz/calendar) - přehled všech komunitních událostí \(především v [\#etheroom](../udalosti/etheroom/)\)
 * [Nejlepší příspěvky](https://forum.gwei.cz/top)
 
 ## Náhled

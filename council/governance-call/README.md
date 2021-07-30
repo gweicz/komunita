@@ -7,7 +7,7 @@ description: Veřejné setkání jádra naší komunity
 Náš [Council](../) pravidelně pořádá online komunitní call, kde rozebíráme naše projekty a celkový rozvoj komunity. Call je otevřený všem!
 
 * Den a čas: **každou** _**druhou**_ **středu 20:00**
-* Místo: ****[\#etheroom](../../projekty/etheroom/)
+* Místo: ****[\#etheroom](../../udalosti/etheroom/)
 
 {% page-ref page="seznam-setkani.md" %}
 

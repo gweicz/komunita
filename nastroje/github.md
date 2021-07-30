@@ -16,7 +16,7 @@ Repozitáře našich projektů a jejich zdrojových kódů. Kdokoliv, kdo má [G
 
 * [web](https://github.com/gweicz/web) - Zdrojové kódy naší landing-page na gwei.cz
 * [komunita](https://github.com/gweicz/komunita) - Tato komunitní dokumentace \(viz. [GitBook](gitbook.md)\)
-* [defi-toolkit](https://github.com/gweicz/defi-toolkit) - Projekt [DeFi Toolkit](../projekty/defi-toolkit.md) \(záloha dokumentu na [HackMD](hackmd.md)\)
+* [defi-toolkit](https://github.com/gweicz/defi-toolkit) - Projekt [DeFi Toolkit](../defi-toolkit.md) \(záloha dokumentu na [HackMD](hackmd.md)\)
 * [brand](https://github.com/gweicz/brand) - Naše loga a další vizuální materiály
 
 ## Náhled

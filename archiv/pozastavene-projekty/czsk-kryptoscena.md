@@ -6,6 +6,10 @@ description: >-
 
 # CZ/SK Kryptoscéna
 
+{% hint style="warning" %}
+Projekt pozastaven a dnes již neaktuální
+{% endhint %}
+
 {% embed url="https://czsk-scena.gwei.cz/" %}
 
 Zdrojový GitHub repozitář: [https://github.com/gweicz/czsk-cryptoscene](https://github.com/gweicz/czsk-cryptoscene)
@@ -18,5 +22,5 @@ Pro tento projekt hledáme nového správce.
 
 ## Náhled
 
-![](../.gitbook/assets/screenshot-2021-04-01-at-6.43.50.png)
+![](../../.gitbook/assets/screenshot-2021-04-01-at-6.43.50.png)
 

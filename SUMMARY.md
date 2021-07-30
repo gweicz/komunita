@@ -24,20 +24,26 @@
   * [Pojďte s námi tvořit](podporte-nas/aktivni-ucast.md)
   * [Finanční podpora](podporte-nas/financni-podpora.md)
 
-## Naše projekty <a id="projekty"></a>
+## Události
 
-* [\#etheroom](projekty/etheroom/README.md)
-  * [Pálíme Ether](projekty/etheroom/palime-ether.md)
-  * [Inkubátor](projekty/etheroom/inkubator.md)
-  * [Pitevna](projekty/etheroom/pitevna.md)
-* [Ethereum/DeFi příručka](projekty/prirucka.md)
-* [Gwei.cz Summit](projekty/summit.md)
-* [DeFi Toolkit](projekty/defi-toolkit.md)
-* [CZ/SK Kryptoscéna](projekty/czsk-kryptoscena.md)
+* [\#etheroom](udalosti/etheroom/README.md)
+  * [Pálíme Ether](udalosti/etheroom/palime-ether.md)
+  * [Inkubátor](udalosti/etheroom/inkubator.md)
+  * [Pitevna](udalosti/etheroom/pitevna.md)
+
+## Dokumentace <a id="dokumenty"></a>
 
 ---
 
-* [Pozastavené projekty](pozastavene-projekty/README.md)
-  * [dCZK stablecoin](pozastavene-projekty/dczk-stablecoin.md)
-  * [Kurzy směnáren a burz](pozastavene-projekty/kurzy-smenaren-a-burz.md)
+* [Ethereum/DeFi příručka](prirucka.md)
+* [DeFi Toolkit](defi-toolkit.md)
+* [DAO Příručka](dao-prirucka.md)
+
+## Archiv
+
+* [Pozastavené projekty](archiv/pozastavene-projekty/README.md)
+  * [dCZK stablecoin](archiv/pozastavene-projekty/dczk-stablecoin.md)
+  * [Kurzy směnáren a burz](archiv/pozastavene-projekty/kurzy-smenaren-a-burz.md)
+  * [CZ/SK Kryptoscéna](archiv/pozastavene-projekty/czsk-kryptoscena.md)
+  * [Gwei.cz Summit](archiv/pozastavene-projekty/summit.md)
 

@@ -12,7 +12,7 @@ Náš chatovací server na platformě [Discord](https://discord.com/) je otevře
 Discord má aplikace pro všechny desktop platformy Mac, Windows, Linux i mobilní Android a iOS. [Stahuje zde](https://discord.com/download).
 
 {% hint style="success" %}
-Součástí našeho Discordu je i hlasová místnost [\#etheroom](../projekty/etheroom/), kde pořádáme různé pravidelné setkání.
+Součástí našeho Discordu je i hlasová místnost [\#etheroom](../udalosti/etheroom/), kde pořádáme různé pravidelné setkání.
 {% endhint %}
 
 ## Statistiky
