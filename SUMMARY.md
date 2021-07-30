@@ -31,11 +31,11 @@
   * [Inkubátor](udalosti/etheroom/inkubator.md)
   * [Pitevna](udalosti/etheroom/pitevna.md)
 
-## Dokumentace <a id="dokumenty"></a>
+## Dokumentace
 
-* [Ethereum/DeFi příručka](dokumenty/prirucka.md)
-* [DeFi Toolkit](dokumenty/defi-toolkit.md)
-* [DAO Příručka](dokumenty/dao-prirucka.md)
+* [Ethereum/DeFi příručka](dokumentace/prirucka.md)
+* [DeFi Toolkit](dokumentace/defi-toolkit.md)
+* [DAO Příručka](dokumentace/dao-prirucka.md)
 
 ## Archiv
 
