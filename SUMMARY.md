@@ -33,11 +33,9 @@
 
 ## Dokumentace <a id="dokumenty"></a>
 
----
-
-* [Ethereum/DeFi příručka](prirucka.md)
-* [DeFi Toolkit](defi-toolkit.md)
-* [DAO Příručka](dao-prirucka.md)
+* [Ethereum/DeFi příručka](dokumenty/prirucka.md)
+* [DeFi Toolkit](dokumenty/defi-toolkit.md)
+* [DAO Příručka](dokumenty/dao-prirucka.md)
 
 ## Archiv
 
