@@ -8,7 +8,7 @@ Pro správu finančních prostředků naší komunity, která je zastoupena [Cou
 
 Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dary \(např. z [Gitcoin Grants](https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community#)\), platí se z ní různé výdaje \(např. server, doména atp.\), případně kontroluje naší [ENS](https://forum.gwei.cz/t/ethereum-name-service-ens-domenovy-system/420) doménu a další [Web3](../klicove-pojmy.md#web3) záležitosti.
 
-## Adresy peněženek
+## Přehled účtů
 
 | Síť | Adresa |  |
 | :--- | :--- | :--- |
