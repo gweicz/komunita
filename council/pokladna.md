@@ -10,10 +10,10 @@ Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dar
 
 ## Přehled účtů
 
-| Síť | Adresa |  |
+| Síť | ENS | Adresa |
 | :--- | :--- | :--- |
-| **Ethereum** | [0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9](https://gnosis-safe.io/app/#/safes/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9) | [Etherscan](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9) |
-| **xDai** | [0x41198CE04A731ad2F3F397FA898F9f34b9fe7002](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002/balances) | [Blockscout](https://blockscout.com/xdai/mainnet/address/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002/transactions) |
+| **Ethereum** | gweicz.eth | [0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9](https://gnosis-safe.io/app/#/safes/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9) |
+| **xDai** | xdai.gweicz.eth | [0x41198CE04A731ad2F3F397FA898F9f34b9fe7002](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002/balances) |
 
 ## Přístup
 
