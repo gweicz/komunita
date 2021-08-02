@@ -32,6 +32,6 @@ Každá komunita musí být alespoň v omezené míře spravována. U nás k tom
 * Tvorba komunikačního a informačního prostoru pro všechny příznivce stejných hodnot
 
 {% hint style="success" %}
-"Gwei" znamená "giga-wei", tedy milion "wei" - což je [nejmenší monetární jednotka Etheru \(ETH\)](https://ethdocs.org/en/latest/ether.html). Je pojmenovaná po čínském kryptografovi [Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai), který přispěl zásadní měrou ke vzniku kryptoměn.
+"Gwei" znamená "giga-wei", tedy milion "wei". "Wei" je [nejmenší monetární jednotka Etheru \(ETH\)](https://ethdocs.org/en/latest/ether.html). Je pojmenovaná po čínském kryptografovi [Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai), který přispěl zásadní měrou ke vzniku kryptoměn.
 {% endhint %}
 
