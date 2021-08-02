@@ -10,10 +10,10 @@ Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dar
 
 ## Přehled účtů
 
-| Síť | ENS | Adresa |
+| Síť | Adresa | Typ |
 | :--- | :--- | :--- |
-| **Ethereum** | gweicz.eth | [0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9](https://gnosis-safe.io/app/#/safes/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9) |
-| **xDai** | xdai.gweicz.eth | [0x41198CE04A731ad2F3F397FA898F9f34b9fe7002](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002/balances) |
+| **Ethereum** | 0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9 | [Gnosis Safe](https://gnosis-safe.io/app/#/safes/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9/balances) |
+| **xDai** | 0x41198CE04A731ad2F3F397FA898F9f34b9fe7002 | [Gnosis Safe](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002) |
 
 ## Přístup
 
@@ -30,6 +30,10 @@ O pokladnu se stará 5 vybraných členů councilu, kteří spravují prostředk
 | [@vojtch](https://forum.gwei.cz/u/vojtch) | 0x5f6cb062bf7c915460d5d01f5b9dafc649f54155 |
 | [@m0xt](https://forum.gwei.cz/u/m0xt) | 0x30DE0189dbefdDa0b2aAD5EB69A0d2A9F49eCD04 |
 | [@coinmandeer](https://forum.gwei.cz/u/coinmandeer) | 0xf5Fe364D18F4a5A53BADCe9a046ba74cfC97f6Fb |
+
+Zde si můžete stáhnout soubor s adresami pro import do Gnosis Safe:
+
+{% file src="../.gitbook/assets/gweicz-gnosis-safe-address-book.csv" caption="Gnosis Safe Address Book" %}
 
 ## Podíl v BohemianDAO
 
