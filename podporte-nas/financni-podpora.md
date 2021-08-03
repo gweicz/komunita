@@ -1,6 +1,6 @@
 # Finanční podpora
 
-Jsme nezisková komunita – vše děláme bez vidiny zisku, protože si myslíme že šíření povědomí o [DeFi a ETH](https://prirucka.gwei.cz/prirucka/) je potřeba. Kvuli nám samotným, kvůli našim dětem - a budoucnosti bez bank a bailoutů.
+Jsme nezisková komunita – vše děláme bez vidiny zisku, protože si myslíme že šíření povědomí o DeFi a ETH je potřeba. Kvuli nám samotným, kvůli našim dětem - a budoucnosti bez bank a bailoutů.
 
 A víte co je na tom nejlepší? Že i vy toho můžete být součástí!
 
@@ -17,11 +17,11 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 
 **Ether \(ETH\)** či jakkýkoliv **ERC-20** token posílejte na tuto adresu:
 
-[![](https://prirucka.gwei.cz/img/donate-qr.png)](https://etherscan.io/address/donate.gweicz.eth)
+[![](../.gitbook/assets/donate-qr.png)](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9)
 
-`0x4D07aF703C163540c59763fF404710204334AF81` - [donate.gweicz.eth](https://etherscan.io/address/donate.gweicz.eth)
+`0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9` - [gweicz.eth](https://etherscan.io/address/0x6c171579f8f3c3f65b30286b14c20a46a4eb55b9)
 
 ## Kdo může s dary nakládat?
 
-Jediný kdo může manipulovat s finančními dary na výše uvedené adrese je naše komunitní [Decentralizovaná organizace](https://prirucka.gwei.cz/dao/) – jde o smart-contract wallet, a jakkákoliv manipulace s ní vyžaduje potvrzení pomocí hlasování. Můžete si tedy být jisti, že váš příspěvek bude využit na cíle naší komunity a nepůjde někomu do kapsy.
+Prostředky jsou ve správě našeho councilu v [Pokladně](../council/pokladna.md). 
 
