@@ -30,6 +30,7 @@
   * [Pálíme Ether](udalosti/etheroom/palime-ether.md)
   * [Inkubátor](udalosti/etheroom/inkubator.md)
   * [Pitevna](udalosti/etheroom/pitevna.md)
+* [ETHBrno 2021](https://ethbrno.gwei.cz)
 
 ## Dokumentace
 
