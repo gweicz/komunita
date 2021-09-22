@@ -14,6 +14,7 @@ Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dar
 | :--- | :--- | :--- |
 | **Ethereum** | 0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9 | [Gnosis Safe](https://gnosis-safe.io/app/#/safes/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9/balances) |
 | **xDai** | 0x41198CE04A731ad2F3F397FA898F9f34b9fe7002 | [Gnosis Safe](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002) |
+| **Polygon** | 0x96Ff4F0e4b51551B126992E9958EA8BaB324da93 | [Gnosis Safe](https://polygon.gnosis-safe.io/app/#/safes/0x96Ff4F0e4b51551B126992E9958EA8BaB324da93) |
 
 ## Přístup
 
