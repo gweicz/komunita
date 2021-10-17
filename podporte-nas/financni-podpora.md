@@ -8,14 +8,14 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 
 ## Na co peníze využijeme?
 
-* platby za služby spojené s provozem komunity \(doména, VPS, atp.\)
+* platby za služby spojené s provozem komunity (doména, VPS, atp.)
 * tvorba edukačních materiálů o ETH/DeFi
 * organizace komunitních meetupů a hackatonů
 * podpora zajímavých komunitních projektů
 
 ## Adresa pro finanční dary
 
-**Ether \(ETH\)** či jakkýkoliv **ERC-20** token posílejte na tuto adresu:
+**Ether (ETH)** či jakkýkoliv **ERC-20** token posílejte na tuto adresu:
 
 [![](../.gitbook/assets/donate-qr.png)](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9)
 
@@ -24,4 +24,3 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 ## Kdo může s dary nakládat?
 
 Prostředky jsou ve správě našeho councilu v [Pokladně](../council/pokladna.md). 
-

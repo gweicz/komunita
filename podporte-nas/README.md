@@ -1,8 +1,10 @@
 # Podpořte nás
 
-{% page-ref page="aktivni-ucast.md" %}
+{% content-ref url="aktivni-ucast.md" %}
+[aktivni-ucast.md](aktivni-ucast.md)
+{% endcontent-ref %}
 
-{% page-ref page="financni-podpora.md" %}
-
-
+{% content-ref url="financni-podpora.md" %}
+[financni-podpora.md](financni-podpora.md)
+{% endcontent-ref %}
 

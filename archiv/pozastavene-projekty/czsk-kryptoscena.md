@@ -22,5 +22,4 @@ Pro tento projekt hledáme nového správce.
 
 ## Náhled
 
-![](../../.gitbook/assets/screenshot-2021-04-01-at-6.43.50.png)
-
+![](<../../.gitbook/assets/Screenshot 2021-04-01 at 6.43.50.png>)

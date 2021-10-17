@@ -8,5 +8,3 @@ Spravuje: [@tree](https://forum.gwei.cz/u/tree)
 
 {% embed url="https://forum.gwei.cz/t/dao-prirucka-informace-a-navody-v-cestine/443" %}
 
-
-

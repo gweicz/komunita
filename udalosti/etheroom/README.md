@@ -1,12 +1,12 @@
 ---
-description: 'Hlasová místnost s pravidelným programem, kde se scházíme a diskutujeme'
+description: Hlasová místnost s pravidelným programem, kde se scházíme a diskutujeme
 ---
 
-# \#etheroom
+# #etheroom
 
-Na našem [Discord serveru](../../komunikacni-kanaly/discord.md) máme audio kanál **\#etheroom**, který využíváme na různé naše komunitní setkání.
+Na našem [Discord serveru](../../komunikacni-kanaly/discord.md) máme audio kanál **#etheroom**, který využíváme na různé naše komunitní setkání.
 
-[🔗](https://emojipedia.org/link/#:~:text=Emoji%20Meaning&text=Used%20as%20an%20icon%20for,to%20Emoji%201.0%20in%202015.)[Přejít na náš Discord️](https://chat.gwei.cz)
+[🔗](https://emojipedia.org/link/#:\~:text=Emoji%20Meaning\&text=Used%20as%20an%20icon%20for,to%20Emoji%201.0%20in%202015.)[Přejít na náš Discord️](https://chat.gwei.cz)
 
 {% hint style="info" %}
 Všechny události jsou viditelné v našem [Kalendáři](https://forum.gwei.cz/calendar), který si můžete i exportovat či propojit s vaším kalendářem.
@@ -16,12 +16,12 @@ Všechny události jsou viditelné v našem [Kalendáři](https://forum.gwei.cz/
 
 Každý týden děláme několik pravidelných událostí.
 
-| Den a čas | Série | Popis |
-| :--- | :--- | :--- |
-| úterý 21:00 | [Pálíme Ether](palime-ether.md) | Diskuze novinek v ETH/DeFi ekosystému |
-| \(občasně\) středa 20:00 | [Governance Call](../../council/governance-call/) | Naše projekty a rozvoj komunity |
-| \(občasně\) středa 20:00 | [Pitevna](pitevna.md) | Diskuze jednoho konkrétního fenoménu |
-| \(občasně\) čtvrtek 18:00 | [Inkubátor](inkubator.md) | Akcelerátor nápadů na zajímavé projekty |
+| Den a čas               | Série                                             | Popis                                   |
+| ----------------------- | ------------------------------------------------- | --------------------------------------- |
+| úterý 21:00             | [Pálíme Ether](palime-ether.md)                   | Diskuze novinek v ETH/DeFi ekosystému   |
+| (občasně) středa 20:00  | [Governance Call](../../council/governance-call/) | Naše projekty a rozvoj komunity         |
+| (občasně) středa 20:00  | [Pitevna](pitevna.md)                             | Diskuze jednoho konkrétního fenoménu    |
+| (občasně) čtvrtek 18:00 | [Inkubátor](inkubator.md)                         | Akcelerátor nápadů na zajímavé projekty |
 
 ### Nepravidelné události
 
@@ -29,9 +29,9 @@ Kdokoliv má možnost udělat tzv. “Etheroom Session” na jakékoliv téma so
 
 ## Jak naplánovat novou “session”?
 
-1. Jděte do kategorie [\#etheroom](https://forum.gwei.cz/c/etheroom/43) na našem fóru.
+1. Jděte do kategorie [#etheroom](https://forum.gwei.cz/c/etheroom/43) na našem fóru.
 2. Otevřete přidání nového tématu kliknutím na tlačítko _“Nové téma”_.
-3. Zadejte nadpis tématu ve tvaru: _“Session - Moje suprovy tema \(@vasNickNaForu\)”_
+3. Zadejte nadpis tématu ve tvaru: _“Session - Moje suprovy tema (@vasNickNaForu)”_
 4. Doplňte popis vaší session - o čem bude řeč, časový harmonogram atp.
 5. V horní části formuláře klikněte na _“Add Event”_ a nastavte datum a čas vaší session.
 6. Ujistěte se, že zvolená kategorie tématu je `#etheroom`.
@@ -40,4 +40,3 @@ Kdokoliv má možnost udělat tzv. “Etheroom Session” na jakékoliv téma so
 ## Máte nápad na nový pořad?
 
 Zastavte se na našem [Discordu](../../komunikacni-kanaly/discord.md) nebo napište na [Fórum](../../komunikacni-kanaly/forum.md).
-

@@ -19,7 +19,7 @@ Kvůli pandemii COVID-19 jsou přípravy summitu zatím pozastavené.
 
 * Plánované datum: **23.-25. července 2021**
 * Místo: **Praha, CZ**
-* Délka: 2 dny \(pátek - sobota\) + bonusový den \(neděle\)
+* Délka: 2 dny (pátek - sobota) + bonusový den (neděle)
 * Kapacita: 100 - 300 lidí
 
 ### Organizační team
@@ -30,10 +30,9 @@ Kvůli pandemii COVID-19 jsou přípravy summitu zatím pozastavené.
 
 ### Přednášející - přislíbená účast
 
-* David Stancel \([@dave\_stancel](https://twitter.com/dave_stancel)\)
-* Matej Nemček \([@yangWao](https://twitter.com/yangWao)\)
-* Juraj Bednár \([@jurbed](https://twitter.com/jurbed)\)
-* Adam Kracík \([@oadamko](https://twitter.com/oadamko)\)
+* David Stancel ([@dave_stancel](https://twitter.com/dave_stancel))
+* Matej Nemček ([@yangWao](https://twitter.com/yangWao))
+* Juraj Bednár ([@jurbed](https://twitter.com/jurbed))
+* Adam Kracík ([@oadamko](https://twitter.com/oadamko))
 * [@AnettRolikova](https://twitter.com/AnettRolikova)
 * [@homershillson](https://twitter.com/homershillson)
-

@@ -1,5 +1,5 @@
 ---
-description: 'Seznam nástrojů, pro každého uživatele decentralizovaných financí'
+description: Seznam nástrojů, pro každého uživatele decentralizovaných financí
 ---
 
 # DeFi Toolkit
@@ -10,7 +10,5 @@ Spravuje: [@tree](https://forum.gwei.cz/u/tree)
 
 ## Náhled
 
-![](../.gitbook/assets/screenshot-2021-04-01-at-6.40.41.png)
-
-
+![](<../.gitbook/assets/Screenshot 2021-04-01 at 6.40.41.png>)
 

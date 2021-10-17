@@ -1,5 +1,5 @@
 ---
-description: 'Srovnávač kurzů kryptoměn v Evropě, zaměřený na CZK, EUR, PLN a další měny.'
+description: Srovnávač kurzů kryptoměn v Evropě, zaměřený na CZK, EUR, PLN a další měny.
 ---
 
 # Kurzy směnáren a burz
@@ -11,4 +11,3 @@ Projekt pozastaven, hledá se správce. [Více informací](https://forum.gwei.cz
 Autor: [@tree](https://forum.gwei.cz/u/tree)
 
 ![](../../.gitbook/assets/kurzy.png)
-

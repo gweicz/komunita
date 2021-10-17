@@ -10,11 +10,11 @@ description: Naše spolupráce
 
 ## Bankless.cz
 
-{% embed url="https://bankless.cz/" caption="" %}
+{% embed url="https://bankless.cz/" %}
 
 ## KryptoVláďa
 
-{% embed url="https://www.kryptovlada.win/" caption="" %}
+{% embed url="https://www.kryptovlada.win/" %}
 
 ## Holky v kryptu
 
@@ -22,7 +22,6 @@ description: Naše spolupráce
 
 ## Další partneři 
 
-{% embed url="https://coinstory.tech/" caption="" %}
+{% embed url="https://coinstory.tech/" %}
 
-{% embed url="https://bordel.paralelnipolis.cz/\#/" caption="" %}
-
+{% embed url="https://bordel.paralelnipolis.cz/#/" %}

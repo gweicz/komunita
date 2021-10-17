@@ -1,5 +1,5 @@
 ---
-description: 'Příručka pro nováčky, sloužící jako průvodce ekosystémem Etherea'
+description: Příručka pro nováčky, sloužící jako průvodce ekosystémem Etherea
 ---
 
 # Ethereum/DeFi příručka
@@ -9,4 +9,3 @@ Příručka v současné době obsahuje neaktualizované informace, ale připrav
 {% endhint %}
 
 {% embed url="https://prirucka.gwei.cz/prirucka/" %}
-

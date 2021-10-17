@@ -1,10 +1,13 @@
 ---
-description: 'Staré, již neaktualizované projekty'
+description: Staré, již neaktualizované projekty
 ---
 
 # Pozastavené projekty
 
-{% page-ref page="dczk-stablecoin.md" %}
+{% content-ref url="dczk-stablecoin.md" %}
+[dczk-stablecoin.md](dczk-stablecoin.md)
+{% endcontent-ref %}
 
-{% page-ref page="kurzy-smenaren-a-burz.md" %}
-
+{% content-ref url="kurzy-smenaren-a-burz.md" %}
+[kurzy-smenaren-a-burz.md](kurzy-smenaren-a-burz.md)
+{% endcontent-ref %}
