@@ -15,12 +15,20 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 
 ## Adresa pro finanční dary
 
-**Ether (ETH)** či jakkýkoliv **ERC-20** token posílejte na tuto adresu:
+### Ethereum ![](../.gitbook/assets/network-ethereum.png)
 
-[![](../.gitbook/assets/donate-qr.png)](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9)
+**Ether (ETH)** či jakkýkoliv **ERC-20** token posílejte na tuto adresu:
 
 `0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9` - [gweicz.eth](https://etherscan.io/address/0x6c171579f8f3c3f65b30286b14c20a46a4eb55b9)
 
+[![](../.gitbook/assets/donate-qr.png)](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9)__
+
+{% hint style="warning" %}
+Tato adresa je platná jen pro Ethereum mainnet, ne pro Polygon nebo další sítě - na těch máme jiné adresy, viz. níže.
+{% endhint %}
+
+Naše adresy na další síťě - na xDai ![](../.gitbook/assets/network-xdai.png), Polygonu ![](../.gitbook/assets/network-polygon.png) nebo Arbitrum ![](../.gitbook/assets/network-arbitrum.png) naleznete na stránce [Council -> Pokladna](../council/pokladna.md#prehled-uctu).
+
 ## Kdo může s dary nakládat?
 
-Prostředky jsou ve správě našeho councilu v [Pokladně](../council/pokladna.md). 
+Prostředky jsou ve správě našeho councilu v [Pokladně](../council/pokladna.md).&#x20;

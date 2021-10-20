@@ -6,13 +6,17 @@ description: Důležité milníky naší komunity
 
 ## 2021
 
+### Říjen 2021
+
+* 09.10.2021 - Pořádání konference [_ETHBrno 2021_](https://ethbrno.gwei.cz/predchozi-rocniky/2021)_ _(první ročník).
+
 ### Červenec 2021
 
 * 12.07.2021 - BohemianDAO: [_první grant_](https://app.daohaus.club/dao/0x64/0xf762ace2c215fdad031b33c656982718c4084786/proposals/4) pro "Holky v Kryptu".
 
 ### Duben 2021
 
-* 24.04.2021 - Spuštění projektu [_Bankless.cz_](https://bankless.cz) ([úvodní článek](https://bankless.cz/novinky/historie-cryptopandy-a-vznik-bankless-cz)). 
+* 24.04.2021 - Spuštění projektu [_Bankless.cz_](https://bankless.cz) ([úvodní článek](https://bankless.cz/novinky/historie-cryptopandy-a-vznik-bankless-cz)).&#x20;
 * 19.04.2021 - Summoning [_BohemianDAO_](http://bohemiandao.cz).
 * 08.04.2021 - První díl pravidelného pořadu "[_Pitevna_](udalosti/etheroom/pitevna.md)" (#etheroom).
 * 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz).
