@@ -26,11 +26,11 @@
 
 ## Události
 
-* [\#etheroom](udalosti/etheroom/README.md)
+* [#etheroom](udalosti/etheroom/README.md)
   * [Pálíme Ether](udalosti/etheroom/palime-ether.md)
   * [Inkubátor](udalosti/etheroom/inkubator.md)
   * [Pitevna](udalosti/etheroom/pitevna.md)
-* [ETHBrno 2021](https://ethbrno.gwei.cz)
+* [ETHBrno](https://ethbrno.gwei.cz)
 
 ## Dokumentace
 
@@ -45,4 +45,3 @@
   * [Kurzy směnáren a burz](archiv/pozastavene-projekty/kurzy-smenaren-a-burz.md)
   * [CZ/SK Kryptoscéna](archiv/pozastavene-projekty/czsk-kryptoscena.md)
   * [Gwei.cz Summit](archiv/pozastavene-projekty/summit.md)
-

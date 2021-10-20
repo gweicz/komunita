@@ -10,12 +10,25 @@ Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dar
 
 ## Přehled účtů
 
-| Síť          | Adresa                                                                                                                                            | Typ                                                                                                            |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Ethereum** | gweicz.eth / [0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9)                | [Gnosis Safe](https://gnosis-safe.io/app/#/safes/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9/balances)          |
-| **xDai**     | [0x41198CE04A731ad2F3F397FA898F9f34b9fe7002](https://blockscout.com/xdai/mainnet/address/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002/transactions) | [Gnosis Safe](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002)              |
-| **Polygon**  | [0x96Ff4F0e4b51551B126992E9958EA8BaB324da93](https://polygonscan.com/address/0x96Ff4F0e4b51551B126992E9958EA8BaB324da93)                          | [Gnosis Safe](https://polygon.gnosis-safe.io/app/#/safes/0x96Ff4F0e4b51551B126992E9958EA8BaB324da93)           |
-| **Arbitrum** | [0x9Cf43876EF099228A39890Febe5956bFAFA89355](https://arbiscan.io/address/0x9Cf43876EF099228A39890Febe5956bFAFA89355)                              | [Gnosis Safe](https://arbitrum.gnosis-safe.io/app/#/safes/0x9Cf43876EF099228A39890Febe5956bFAFA89355/balances) |
+### Ethereum ![](../.gitbook/assets/network-ethereum.png)
+
+* Adresa: `0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9` (`gweicz.eth`)
+* [Etherscan](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9), [Gnosis Safe](https://gnosis-safe.io/app/#/safes/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9/balances)
+
+### xDai ![](../.gitbook/assets/network-xdai.png)
+
+* Adresa: `0x41198CE04A731ad2F3F397FA898F9f34b9fe7002`
+* [Blockscout](https://blockscout.com/xdai/mainnet/address/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002/transactions), [Gnosis Safe](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002)
+
+### Polygon ![](../.gitbook/assets/network-polygon.png)
+
+* Adresa: `0x96Ff4F0e4b51551B126992E9958EA8BaB324da93`
+* [Polygonscan](https://polygonscan.com/address/0x96Ff4F0e4b51551B126992E9958EA8BaB324da93), [Gnosis Safe](https://polygon.gnosis-safe.io/app/#/safes/0x96Ff4F0e4b51551B126992E9958EA8BaB324da93)
+
+### Arbitrum ![](../.gitbook/assets/network-arbitrum.png)
+
+* Adresa: `0x9Cf43876EF099228A39890Febe5956bFAFA89355`
+* [Arbiscan](https://arbiscan.io/address/0x9Cf43876EF099228A39890Febe5956bFAFA89355), [Gnosis Safe](https://arbitrum.gnosis-safe.io/app/#/safes/0x9Cf43876EF099228A39890Febe5956bFAFA89355/balances)
 
 ## Přístup
 
