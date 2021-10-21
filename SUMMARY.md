@@ -2,6 +2,7 @@
 
 * [Vítejte na Gwei.cz](README.md)
 * [Klíčové pojmy](klicove-pojmy.md)
+* [Lidé](lide.md)
 * [Komunikační kanály](komunikacni-kanaly/README.md)
   * [Fórum](komunikacni-kanaly/forum.md)
   * [Discord](komunikacni-kanaly/discord.md)
