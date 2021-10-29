@@ -8,14 +8,15 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 
 ## Plánované
 
-| Číslo                                                 | Datum      | Organizátor                           |
-| ----------------------------------------------------- | ---------- | ------------------------------------- |
-| [#15](https://forum.gwei.cz/t/governance-call-15/473) | 27.10.2021 | [@tree](https://forum.gwei.cz/u/tree) |
+| Číslo | Datum      | Organizátor                               |
+| ----- | ---------- | ----------------------------------------- |
+| #16   | 10.11.2021 | [@damsky](https://forum.gwei.cz/u/damsky) |
 
 ## Uskutečněné
 
 | Číslo                                                                 | Datum      | Organizátor                                         |
 | --------------------------------------------------------------------- | ---------- | --------------------------------------------------- |
+| [#15](https://forum.gwei.cz/t/governance-call-15/473)                 | 27.10.2021 | [@tree](https://forum.gwei.cz/u/tree)               |
 | [#14](https://forum.gwei.cz/t/governance-call-14-offline-ethbrno/467) | 10.10.2021 | [@vojtch](https://forum.gwei.cz/u/vojtch)           |
 | [#13](https://forum.gwei.cz/t/governance-call-13/465)                 | 22.09.2021 | [@rixcian](https://forum.gwei.cz/u/rixcian)         |
 | ​[#12](https://forum.gwei.cz/t/governance-call-12/448)​               | 25.08.2021 | -                                                   |

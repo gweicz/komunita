@@ -15,7 +15,7 @@ Nejaktivnější členové naší komunity, kteří společně komunitu řídí,
 * Správa [pokladny](pokladna.md) 🔑
 * Organizace [Governance Callů](governance-call/)
 
-## Členové councilu (15)
+## Členové councilu (16)
 
 | Fórum                                                  | Discord              |
 | ------------------------------------------------------ | -------------------- |
@@ -24,6 +24,7 @@ Nejaktivnější členové naší komunity, kteří společně komunitu řídí,
 | [@Bohus](https://forum.gwei.cz/u/bohus)                | bohus.eth#5311       |
 | [@coinmandeer](https://forum.gwei.cz/u/coinmandeer) 🔑 | coinmandeer#9287     |
 | [@cryptomar1o](https://forum.gwei.cz/u/cryptomar1o)    | cryptomario#0917     |
+| [@damsky](https://forum.gwei.cz/u/damsky)              | damsky#0879          |
 | [@KryptoVlada](https://forum.gwei.cz/u/kryptovlada)    | KryptoVláďa.eth#5246 |
 | [@Mich](https://forum.gwei.cz/u/mich)                  | Mich#3164            |
 | [@m0xt](https://forum.gwei.cz/u/m0xt) 🔑               | m0xt#0024            |
