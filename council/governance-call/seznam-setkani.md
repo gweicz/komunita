@@ -8,9 +8,9 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 
 ## Plánované
 
-| Číslo | Datum      | Organizátor                               |
-| ----- | ---------- | ----------------------------------------- |
-| #16   | 10.11.2021 | [@damsky](https://forum.gwei.cz/u/damsky) |
+| Číslo                                                 | Datum      | Organizátor                               |
+| ----------------------------------------------------- | ---------- | ----------------------------------------- |
+| [#16](https://forum.gwei.cz/t/governance-call-16/481) | 10.11.2021 | [@damsky](https://forum.gwei.cz/u/damsky) |
 
 ## Uskutečněné
 
