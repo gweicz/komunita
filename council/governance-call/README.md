@@ -7,7 +7,7 @@ description: Veřejné setkání jádra naší komunity
 Náš [Council](../) pravidelně pořádá online komunitní call, kde rozebíráme naše projekty a celkový rozvoj komunity. Call je otevřený všem!
 
 * Den a čas: **každou **_**druhou**_** středu 20:00**
-* Místo:** **[#etheroom](../../udalosti/etheroom/)
+* Místo: Aktuálně používáme službu [Jitsi Meet](https://meet.jit.si) - odkaz na setkání se posílá na náš Discord pár minut před začátkem
 
 {% content-ref url="seznam-setkani.md" %}
 [seznam-setkani.md](seznam-setkani.md)
@@ -17,15 +17,13 @@ Náš [Council](../) pravidelně pořádá online komunitní call, kde rozebír�
 Všechny události, včetně nejbližšího governance callu, najdete v [našem kalendáři](https://forum.gwei.cz/calendar).
 {% endhint %}
 
-## Harmonogram
+## Průběh
 
-| Čas       | Popis                                                |        |
-| --------- | ---------------------------------------------------- | ------ |
-| 20:00     | rozjezd, nezávazná debata (10 min)                   | 10 min |
-| **20:10** | **"state of nation" - informování o stavu komunity** | 20 min |
-| **20:30** | **diskuze jednotlivých bodů programu**               | 55 min |
-| 21:25     | volba moderátora dalšího callu                       | 5 min  |
-| 21:30     | ukončení hlavního programu + afterparty              |        |
+* rozjezd, nezávazná debata (5-10 min)
+* **informování o stavu komunity**
+* **diskuze jednotlivých bodů programu**
+* volba moderátora dalšího callu
+* ukončení hlavního programu + afterparty
 
 ## Organizace
 
