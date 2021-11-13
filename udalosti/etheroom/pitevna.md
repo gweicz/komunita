@@ -12,9 +12,9 @@ Série otevřených rozhovorů, kde společně snažíme představit a rozebrat 
 
 ### Plánované díly
 
-| Díl | Datum      | Fenomén | Hosté |
-| --- | ---------- | ------- | ----- |
-| #3  | 28.07.2021 | DAO     | ?     |
+| Díl | Datum      | Fenomén                                          | Hosté |
+| --- | ---------- | ------------------------------------------------ | ----- |
+| #3  | 17.11.2021 | [DAO](https://forum.gwei.cz/t/pitevna-4-dao/498) | ?     |
 
 ### Minulé díly
 
