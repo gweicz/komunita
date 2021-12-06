@@ -24,6 +24,10 @@
   * [Pojďte s námi tvořit](podporte-nas/aktivni-ucast.md)
   * [Finanční podpora](podporte-nas/financni-podpora.md)
 
+## Služby
+
+* [BrightID verifikace](sluzby/brightid-verifikace.md)
+
 ## Události
 
 * [#etheroom](udalosti/etheroom/README.md)

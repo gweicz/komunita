@@ -4,7 +4,7 @@ description: Rychlá komunikace v rámci komunity, novinky z ekosystému
 
 # Discord
 
-* Pozvánka: [**chat.gwei.cz**](https://chat.gwei.cz)
+* Pozvánka / odkaz: [**chat.gwei.cz**](https://chat.gwei.cz)
 * Spravuje: [Council](../council/)
 
 Náš chatovací server na platformě [Discord](https://discord.com) je otevřený všem. Pro připojení musíte mít Discord účet s ověřeným emailem.
