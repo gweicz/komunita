@@ -8,3 +8,6 @@
 [financni-podpora.md](financni-podpora.md)
 {% endcontent-ref %}
 
+{% content-ref url="gitcoin-grants.md" %}
+[gitcoin-grants.md](gitcoin-grants.md)
+{% endcontent-ref %}
