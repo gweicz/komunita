@@ -23,6 +23,7 @@
 * [Podpořte nás](podporte-nas/README.md)
   * [Pojďte s námi tvořit](podporte-nas/aktivni-ucast.md)
   * [Finanční podpora](podporte-nas/financni-podpora.md)
+  * [Gitcoin Grants](podporte-nas/gitcoin-grants.md)
 
 ## Služby
 
