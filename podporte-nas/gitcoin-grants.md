@@ -2,7 +2,7 @@
 
 Pravidelně se účastníme události [Gitcoin Grants](https://gitcoin.co/grants/), kde se každé tři měsíce vybírají peníze na různé projekty v rámci Ethereum ekosystému. Součástí každého kola je štědrý fond od sponzorů, který se přerozděluje všem projektům pomocí tzv. [Quandratic funding](gitcoin-grants.md#quadratic-funding).
 
-Děkujeme všem, kteří podporují Etherum ekosystém! :pray:
+Děkujeme všem, kteří podporují Ethereum ekosystém! :pray:
 
 * &#x20;**1. - 16. prosinec 2021 - Gitcoin Grants Round 12 (GR12)**
 
