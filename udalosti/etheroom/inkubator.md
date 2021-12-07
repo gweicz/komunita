@@ -8,7 +8,7 @@ _Máte nápad na nějaký zajímavý projekt, související s Ethereem či DeFi?
 
 Připojte se každý druhý čtvrtek 18:00 na náš Discord do kanálu [#etheroom](./) a můžete s námi váš nápad prodiskutovat.
 
-* Den a čas:** čtvrtek 18:00** ([kalendář](https://forum.gwei.cz/calendar))
+* Den a čas: **čtvrtek 18:00** ([kalendář](https://forum.gwei.cz/calendar))
 * Místo: [#etheroom](./)
 * Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@kleinpetr](https://forum.gwei.cz/u/kleinpetr)
 

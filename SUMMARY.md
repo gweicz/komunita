@@ -39,7 +39,6 @@
 
 ## Dokumentace
 
-* [Ethereum/DeFi příručka](dokumentace/prirucka.md)
 * [DeFi Toolkit](dokumentace/defi-toolkit.md)
 * [DAO Příručka](dokumentace/dao-prirucka.md)
 
@@ -50,3 +49,4 @@
   * [Kurzy směnáren a burz](archiv/pozastavene-projekty/kurzy-smenaren-a-burz.md)
   * [CZ/SK Kryptoscéna](archiv/pozastavene-projekty/czsk-kryptoscena.md)
   * [Gwei.cz Summit](archiv/pozastavene-projekty/summit.md)
+  * [Ethereum/DeFi příručka](archiv/pozastavene-projekty/prirucka.md)

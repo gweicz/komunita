@@ -8,7 +8,7 @@ description: Důležité milníky naší komunity
 
 ### Říjen 2021
 
-* 09.10.2021 - Pořádání konference [_ETHBrno 2021_](https://ethbrno.gwei.cz/predchozi-rocniky/2021)_ _(první ročník).
+* 09.10.2021 - Pořádání konference [_ETHBrno 2021_](https://ethbrno.gwei.cz/predchozi-rocniky/2021) __ (první ročník).
 
 ### Červenec 2021
 
@@ -31,14 +31,14 @@ description: Důležité milníky naší komunity
 
 * 15.02.2021 - První díl pravidelného pořadu "[_Pálíme Ether_](udalosti/etheroom/palime-ether.md)" (#etheroom).
 * 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](udalosti/etheroom/inkubator.md)" (#etheroom).
-* 03.02.2021 - [_Governance Call_](council/governance-call/)_ #0_. Historicky první veřejný call v naší #etheroom.
+* 03.02.2021 - [_Governance Call_](council/governance-call/) _#0_. Historicky první veřejný call v naší #etheroom.
 * 03.02.2021 - Vznik hlasové místnosti [_#etheroom_](udalosti/etheroom/) na našem Discord chatu.
 
 ## 2020
 
 ### Srpen 2020
 
-* 20.08.2020 - První komunitní meetup v Praze - [_Bar Pradlenka_](https://goo.gl/maps/rwjEbwBS82itsRKD8)_ _([událost](https://forum.gwei.cz/t/gwei-cz-community-meetup-0-ct-20-8-2020-praha/91)).
+* 20.08.2020 - První komunitní meetup v Praze - [_Bar Pradlenka_](https://goo.gl/maps/rwjEbwBS82itsRKD8) __ ([událost](https://forum.gwei.cz/t/gwei-cz-community-meetup-0-ct-20-8-2020-praha/91)).
 
 ### Duben 2020
 
@@ -49,9 +49,9 @@ description: Důležité milníky naší komunity
 ### Březen 2020
 
 * 29.03.2020 - Přesun projektu [_Přehled CZ/SK kryptoscény_](archiv/pozastavene-projekty/czsk-kryptoscena.md) na vlastní subdoménu ([czsk-scena.gwei.cz](https://czsk-scena.gwei.cz)).
-* 28.03.2020 - Založeno komunitní [_Diskuzní fórum_](komunikacni-kanaly/forum.md)_ (_[_forum.gwei.cz_](https://forum.gwei.cz)_)_.
+* 28.03.2020 - Založeno komunitní [_Diskuzní fórum_](komunikacni-kanaly/forum.md) _(_[_forum.gwei.cz_](https://forum.gwei.cz)_)_.
 * 24.03.2020 - Dokončená inicializace _Gwei.cz DAO v1_ (4 zakládající členové).
-* 15.03.2020 - Nový projekt [_Srovnávač kurzů kryptoměn_](archiv/pozastavene-projekty/kurzy-smenaren-a-burz.md)_ (kurzy.gwei.cz)_.
+* 15.03.2020 - Nový projekt [_Srovnávač kurzů kryptoměn_](archiv/pozastavene-projekty/kurzy-smenaren-a-burz.md) _(kurzy.gwei.cz)_.
 * 02.03.2020 - Nová webová stránka [_gwei.cz_](https://gwei.cz) koncipovaná jako knowledge-base.
 * 01.03.2020 - Komunitní [_Discord_](komunikacni-kanaly/discord.md) pokořil metu 50 členů.
 
