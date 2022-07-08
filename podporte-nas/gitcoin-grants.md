@@ -27,6 +27,6 @@ Děkujeme všem, kteří podporují Ethereum ekosystém! :pray:
 
 _Quadratic funding_ (v překladu něco jako "Kvadratické financování") je matematicky optimální způsob financování veřejných statků v demokratickém společenství. Zesiluje příspěvky široké komunity oproti příspěvkům malé skupiny velkých hráčů.
 
-Více informací o QF naleznete na webu [wtfisqf.com](https://wtfisqf.com).
+Více informací o QF naleznete na webu [wtfisqf.com](https://wtfisqf.com/).
 
 {% embed url="https://www.youtube.com/watch?v=HJljTtLnymE" %}

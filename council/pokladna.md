@@ -4,28 +4,28 @@ description: Komunitní pokladna (multisig)
 
 # Pokladna
 
-Pro správu finančních prostředků naší komunity, která je zastoupena [Councilem](./), používáme [Gnosis Safe](https://gnosis-safe.io), což je smart-kontrakt [multi-signature peněženka](https://bankless.cz/studium/co-to-je-multisignature-wallet).
+Pro správu finančních prostředků naší komunity, která je zastoupena [Councilem](./), používáme [Gnosis Safe](https://gnosis-safe.io/), což je smart-kontrakt [multi-signature peněženka](https://bankless.cz/studium/co-to-je-multisignature-wallet).
 
-Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dary (např. z [Gitcoin Grants](https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community#)), platí se z ní různé výdaje (např. server, doména atp.), případně kontroluje naší [ENS](https://forum.gwei.cz/t/ethereum-name-service-ens-domenovy-system/420) doménu a další [Web3](../klicove-pojmy.md#web3) záležitosti.
+Do pokladny, která je tvořena několika peněženkami, jdou příspěvky a dary (např. z [Gitcoin Grants](https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community)), platí se z ní různé výdaje (např. server, doména atp.), případně kontroluje naší [ENS](https://forum.gwei.cz/t/ethereum-name-service-ens-domenovy-system/420) doménu a další [Web3](../klicove-pojmy.md#web3) záležitosti.
 
 ## Přehled účtů
 
-### Ethereum ![](../.gitbook/assets/network-ethereum.png)
+### Ethereum <img src="../.gitbook/assets/network-ethereum.png" alt="" data-size="line">
 
 * Adresa: `0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9` (`gweicz.eth`)
 * [Etherscan](https://etherscan.io/address/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9), [Gnosis Safe](https://gnosis-safe.io/app/#/safes/0x6c171579f8F3c3F65B30286b14C20a46a4eb55b9/balances)
 
-### xDai ![](../.gitbook/assets/network-xdai.png)
+### Gnosis Chain (xDai) <img src="../.gitbook/assets/gnosis-chain.webp" alt="" data-size="line">
 
 * Adresa: `0x41198CE04A731ad2F3F397FA898F9f34b9fe7002`
 * [Blockscout](https://blockscout.com/xdai/mainnet/address/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002/transactions), [Gnosis Safe](https://xdai.gnosis-safe.io/app/#/safes/0x41198CE04A731ad2F3F397FA898F9f34b9fe7002)
 
-### Polygon ![](../.gitbook/assets/network-polygon.png)
+### Polygon <img src="../.gitbook/assets/network-polygon.png" alt="" data-size="line">
 
 * Adresa: `0x96Ff4F0e4b51551B126992E9958EA8BaB324da93`
 * [Polygonscan](https://polygonscan.com/address/0x96Ff4F0e4b51551B126992E9958EA8BaB324da93), [Gnosis Safe](https://polygon.gnosis-safe.io/app/#/safes/0x96Ff4F0e4b51551B126992E9958EA8BaB324da93)
 
-### Arbitrum ![](../.gitbook/assets/network-arbitrum.png)
+### Arbitrum <img src="../.gitbook/assets/network-arbitrum.png" alt="" data-size="line">
 
 * Adresa: `0x9Cf43876EF099228A39890Febe5956bFAFA89355`
 * [Arbiscan](https://arbiscan.io/address/0x9Cf43876EF099228A39890Febe5956bFAFA89355), [Gnosis Safe](https://arbitrum.gnosis-safe.io/app/#/safes/0x9Cf43876EF099228A39890Febe5956bFAFA89355/balances)
@@ -54,4 +54,4 @@ Gnosis Safe Address Book
 
 ## Podíl v BohemianDAO
 
-Většina financí v pokladně se pravidelně převádí do neziskového [BohemianDAO](http://bohemiandao.cz) a rozšiřují tak podíl zastoupení Gwei.cz v této decentralizované organizaci.
+Většina financí v pokladně se pravidelně převádí do neziskového [BohemianDAO](http://bohemiandao.cz/) a rozšiřují tak podíl zastoupení Gwei.cz v této decentralizované organizaci.

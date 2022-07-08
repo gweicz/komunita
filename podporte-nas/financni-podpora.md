@@ -15,7 +15,7 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 
 ## Adresa pro finanční dary
 
-### Ethereum ![](../.gitbook/assets/network-ethereum.png)
+### Ethereum <img src="../.gitbook/assets/network-ethereum.png" alt="" data-size="line">
 
 **Ether (ETH)** či jakkýkoliv **ERC-20** token posílejte na tuto adresu:
 
@@ -27,7 +27,7 @@ Pokud se vám naše práce líbí či vám příjde přínosná - budeme velice 
 Tato adresa je platná jen pro Ethereum mainnet, ne pro Polygon nebo další sítě - na těch máme jiné adresy, viz. níže.
 {% endhint %}
 
-Naše adresy na další síťě - na xDai ![](../.gitbook/assets/network-xdai.png), Polygonu ![](../.gitbook/assets/network-polygon.png) nebo Arbitrum ![](../.gitbook/assets/network-arbitrum.png) naleznete na stránce [Council -> Pokladna](../council/pokladna.md#prehled-uctu).
+Naše adresy na další síťě - na xDai <img src="../.gitbook/assets/network-xdai.png" alt="" data-size="line">, Polygonu <img src="../.gitbook/assets/network-polygon.png" alt="" data-size="line"> nebo Arbitrum <img src="../.gitbook/assets/network-arbitrum.png" alt="" data-size="line"> naleznete na stránce [Council -> Pokladna](../council/pokladna.md#prehled-uctu).
 
 ## Kdo může s dary nakládat?
 

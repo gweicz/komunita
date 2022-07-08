@@ -4,11 +4,11 @@ description: Kde všude nás najdete
 
 # Komunikační kanály
 
-## :pencil:[Fórum](forum.md) \~ [forum.gwei.cz](https://forum.gwei.cz)
+## :pencil:[Fórum](forum.md) \~ [forum.gwei.cz](https://forum.gwei.cz/)
 
 Strukturovaná diskuze, která umožňuje bavit se o tématech trošku více do hloubky. Probíráme zde naše projekty a najdete zde i náš [Kalendář](https://forum.gwei.cz/calendar) událostí, které pořádáme.
 
-## :speech_balloon:[Discord](discord.md) \~ [chat.gwei.cz](https://discord.gg/FpxwbnM)
+## :speech\_balloon:[Discord](discord.md) \~ [chat.gwei.cz](https://discord.gg/FpxwbnM)
 
 Rychlá komunikace (chat) v rámci komunity a vzájemné informování o novinkách z našeho ekosystému. Konají se zde i pravidelná online setkání v audio kanálu [#etheroom](../udalosti/etheroom/).
 

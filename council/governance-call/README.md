@@ -6,8 +6,8 @@ description: Veřejné setkání jádra naší komunity
 
 Náš [Council](../) pravidelně pořádá online komunitní call, kde rozebíráme naše projekty a celkový rozvoj komunity. Call je otevřený všem!
 
-* Den a čas: **každou **_**druhou**_** středu 20:00**
-* Místo: Aktuálně používáme službu [Jitsi Meet](https://meet.jit.si) - odkaz na setkání se posílá na náš Discord pár minut před začátkem
+* Den a čas: (občasně) **středa 20:00**
+* Místo: Aktuálně používáme službu [Jitsi Meet](https://meet.gwei.cz/) (vlastní instance) - odkaz na setkání se posílá na náš Discord pár minut/hodin před začátkem
 
 {% content-ref url="seznam-setkani.md" %}
 [seznam-setkani.md](seznam-setkani.md)

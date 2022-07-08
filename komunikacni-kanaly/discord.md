@@ -7,7 +7,7 @@ description: Rychlá komunikace v rámci komunity, novinky z ekosystému
 * Pozvánka / odkaz: [**chat.gwei.cz**](https://chat.gwei.cz)
 * Spravuje: [Council](../council/)
 
-Náš chatovací server na platformě [Discord](https://discord.com) je otevřený všem. Pro připojení musíte mít Discord účet s ověřeným emailem.
+Náš chatovací server na platformě [Discord](https://discord.com/) je otevřený všem. Pro připojení musíte mít Discord účet s ověřeným emailem.
 
 Discord má aplikace pro všechny desktop platformy Mac, Windows, Linux i mobilní Android a iOS. [Stahuje zde](https://discord.com/download).
 

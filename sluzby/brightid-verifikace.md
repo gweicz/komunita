@@ -1,6 +1,6 @@
 # BrightID verifikace
 
-[BrightID](https://www.brightid.org) je sociální identifikační síť, pomocí které se tvoří důvěryhodné skupiny lidí. Verifikovaný účet na BrightID se hodí, například pokud přispíváte na [Gitcoin Grants](https://gitcoin.co/grants/) nebo chcete dostávat odměny za využívání nových decentralizovaných aplikací pomocí [Rabbithole](https://rabbithole.gg).
+[BrightID](https://www.brightid.org/) je sociální identifikační síť, pomocí které se tvoří důvěryhodné skupiny lidí. Verifikovaný účet na BrightID se hodí, například pokud přispíváte na [Gitcoin Grants](https://gitcoin.co/grants/) nebo chcete dostávat odměny za využívání nových decentralizovaných aplikací pomocí [Rabbithole](https://rabbithole.gg/).
 
 V rámci naší komunity existuje skupina lidí (tzv. "seed group"), kteří můžou verifikovat nové uživatele stejně jako oficiální [Connection Party](https://meet.brightid.org/#/).
 
@@ -11,7 +11,7 @@ V rámci naší komunity existuje skupina lidí (tzv. "seed group"), kteří mů
 * ID: `i-2al61C3kqJXzypJV7gSYqAcwwwimjMk4QnRpN8C2A`
 * Název: `Gwei.cz - council`
 
-Pro průzkum a vizualizaci můžete využít [BrightID Explorer](https://explorer.brightid.org).
+Pro průzkum a vizualizaci můžete využít [BrightID Explorer](https://explorer.brightid.org/).
 
 ### Členové verifikační skupiny (3)
 

@@ -2,7 +2,7 @@
 
 ## Ethereum
 
-[Ethereum](https://ethereum.org) představuje otevřený přístup k digitálním penězům a datovým službám pro každého - bez ohledu na jeho původ nebo lokalitu. Je to komunitou vytvořená technologie (blockchain), která stojí za kryptoměnou ether (ETH) a tisíci aplikací, které můžete používat již dnes.
+[Ethereum](https://ethereum.org/) představuje otevřený přístup k digitálním penězům a datovým službám pro každého - bez ohledu na jeho původ nebo lokalitu. Je to komunitou vytvořená technologie (blockchain), která stojí za kryptoměnou ether (ETH) a tisíci aplikací, které můžete používat již dnes.
 
 ## Chytré kontrakty (smart-kontrakty)
 
@@ -24,5 +24,5 @@ Neexistuje žádný generální ředitel, který by mohl schvalovat výdaje na z
 
 ## Web3
 
-Standartizované rozhraní pro interakci Ethereum peněženky a webové stránky se nazývá Web3. Toto rozhraní umožňuje vývojářům dělat webové služby, pomocí kterých uživatelé mohou komunikovat s [chytrými kontrakty](klicove-pojmy.md#chytre-kontrakty-smart-kontrakty). Na desktopu jsou tyto peněženky většinou ve formě doplňku do prohlížeče - na mobilních zařízeních naopak prohlížeč integrují uvnitř aplikace. Případně je možné použít univerzální propojení pomocí [WalletConnect](https://walletconnect.com). Zdaleka nejpoužívanější Web3 peněženkou je [MetaMask](https://metamask.io).
+Standartizované rozhraní pro interakci Ethereum peněženky a webové stránky se nazývá Web3. Toto rozhraní umožňuje vývojářům dělat webové služby, pomocí kterých uživatelé mohou komunikovat s [chytrými kontrakty](klicove-pojmy.md#chytre-kontrakty-smart-kontrakty). Na desktopu jsou tyto peněženky většinou ve formě doplňku do prohlížeče - na mobilních zařízeních naopak prohlížeč integrují uvnitř aplikace. Případně je možné použít univerzální propojení pomocí [WalletConnect](https://walletconnect.com/). Zdaleka nejpoužívanější Web3 peněženkou je [MetaMask](https://metamask.io/).
 

@@ -6,10 +6,10 @@ description: Strukturovaná diskuze, novinky v komunitě a našich projektech
 
 {% embed url="http://forum.gwei.cz/" %}
 
-* Adresa: [**forum.gwei.cz**](https://forum.gwei.cz)****
+* Adresa: [**forum.gwei.cz**](https://forum.gwei.cz/)****
 * Spravuje: [Council](../council/)
 
-Fórum funguje na open source systému [Discourse](https://www.discourse.org). Pro aktivní účast je nutné se [zaregistrovat](https://forum.gwei.cz/signup), dostupné metody registrace jsou přes uživatelské jméno a heslo a nebo propojení s GitHubem, Twitterem nebo Discordem.
+Fórum funguje na open source systému [Discourse](https://www.discourse.org/). Pro aktivní účast je nutné se [zaregistrovat](https://forum.gwei.cz/signup), dostupné metody registrace jsou přes uživatelské jméno a heslo a nebo propojení s GitHubem, Twitterem nebo Discordem.
 
 ### Hlavní stránky
 

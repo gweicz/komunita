@@ -10,7 +10,7 @@ description: Zpravodajství z naší komunity
 * Spravuje: [@tree](https://forum.gwei.cz/u/tree)
 * Přístup: [Twitter správci](twitter.md) (propojeno s Twitterem)
 
-Články na platformě [Medium](https://medium.com) o tom co se stalo v naší komunitě a informace o našich projektech. Pravidelně zde 1x měsíčně vychází Komunitní zpravodaj s novinkami z komunity.
+Články na platformě [Medium](https://medium.com/) o tom co se stalo v naší komunitě a informace o našich projektech. Pravidelně zde 1x měsíčně vychází Komunitní zpravodaj s novinkami z komunity.
 
 ### Obsah blogu
 
