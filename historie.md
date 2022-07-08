@@ -4,6 +4,12 @@ description: Důležité milníky naší komunity
 
 # Historie komunity
 
+## 2022
+
+### Červen 2022
+
+* 04.-05.06.2022 - Pořádání konference [_UTXO.22_](http://utxo.cz/) (první ročník).
+
 ## 2021
 
 ### Říjen 2021
@@ -16,8 +22,8 @@ description: Důležité milníky naší komunity
 
 ### Duben 2021
 
-* 24.04.2021 - Spuštění projektu [_Bankless.cz_](https://bankless.cz) ([úvodní článek](https://bankless.cz/novinky/historie-cryptopandy-a-vznik-bankless-cz)).&#x20;
-* 19.04.2021 - Summoning [_BohemianDAO_](http://bohemiandao.cz).
+* 24.04.2021 - Spuštění projektu [_Bankless.cz_](https://bankless.cz/) ([úvodní článek](https://bankless.cz/novinky/historie-cryptopandy-a-vznik-bankless-cz)).&#x20;
+* 19.04.2021 - Summoning [_BohemianDAO_](http://bohemiandao.cz/).
 * 08.04.2021 - První díl pravidelného pořadu "[_Pitevna_](udalosti/etheroom/pitevna.md)" (#etheroom).
 * 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz).
 * 01.04.2021 - Nová dokumentace komunity na adrese [_komunita.gwei.cz_](https://komunita.gwei.cz) (GitBook).
