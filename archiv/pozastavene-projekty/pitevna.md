@@ -4,10 +4,14 @@ description: Diskuze jednoho konkrétního fenoménu
 
 # Pitevna
 
+{% hint style="warning" %}
+Pořad je v současné době pozastaven.
+{% endhint %}
+
 Série otevřených rozhovorů, kde společně snažíme představit a rozebrat jeden konkrétní fenomén v Ethereu, DeFi nebo kryptoměnách obecně.
 
 * Den a čas: **středa 20:00** ([kalendář](https://forum.gwei.cz/calendar))
-* Místo: [#etheroom](./)
+* Místo: [#etheroom](../../udalosti/etheroom/)
 * Moderátoři: [@tree](https://forum.gwei.cz/u/tree), [@m0xt](https://forum.gwei.cz/u/m0xt)
 
 ### Plánované díly

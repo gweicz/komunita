@@ -24,7 +24,7 @@ description: Důležité milníky naší komunity
 
 * 24.04.2021 - Spuštění projektu [_Bankless.cz_](https://bankless.cz/) ([úvodní článek](https://bankless.cz/novinky/historie-cryptopandy-a-vznik-bankless-cz)).&#x20;
 * 19.04.2021 - Summoning [_BohemianDAO_](http://bohemiandao.cz/).
-* 08.04.2021 - První díl pravidelného pořadu "[_Pitevna_](udalosti/etheroom/pitevna.md)" (#etheroom).
+* 08.04.2021 - První díl pravidelného pořadu "[_Pitevna_](archiv/pozastavene-projekty/pitevna.md)" (#etheroom).
 * 03.04.2021 - Spuštění nového webu [_gwei.cz_](https://gwei.cz).
 * 01.04.2021 - Nová dokumentace komunity na adrese [_komunita.gwei.cz_](https://komunita.gwei.cz) (GitBook).
 
@@ -36,7 +36,7 @@ description: Důležité milníky naší komunity
 ### Únor 2021
 
 * 15.02.2021 - První díl pravidelného pořadu "[_Pálíme Ether_](udalosti/etheroom/palime-ether.md)" (#etheroom).
-* 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](udalosti/etheroom/inkubator.md)" (#etheroom).
+* 11.02.2021 - První díl pravidelného pořadu "[_Inkubátor_](archiv/pozastavene-projekty/inkubator.md)" (#etheroom).
 * 03.02.2021 - [_Governance Call_](council/governance-call/) _#0_. Historicky první veřejný call v naší #etheroom.
 * 03.02.2021 - Vznik hlasové místnosti [_#etheroom_](udalosti/etheroom/) na našem Discord chatu.
 

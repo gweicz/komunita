@@ -6,7 +6,7 @@ description: Hlasová místnost s pravidelným programem, kde se scházíme a di
 
 Na našem [Discord serveru](../../komunikacni-kanaly/discord.md) máme audio kanál **#etheroom**, který využíváme na různé naše komunitní setkání.
 
-[🔗](https://emojipedia.org/link/#:\~:text=Emoji%20Meaning\&text=Used%20as%20an%20icon%20for,to%20Emoji%201.0%20in%202015.)[Přejít na náš Discord️](https://chat.gwei.cz)
+[🔗](https://emojipedia.org/link/)[Přejít na náš Discord️](https://chat.gwei.cz)
 
 {% hint style="info" %}
 Všechny události jsou viditelné v našem [Kalendáři](https://forum.gwei.cz/calendar), který si můžete i exportovat či propojit s vaším kalendářem.
@@ -16,12 +16,10 @@ Všechny události jsou viditelné v našem [Kalendáři](https://forum.gwei.cz/
 
 Každý týden děláme několik pravidelných událostí.
 
-| Den a čas               | Série                                             | Popis                                   |
-| ----------------------- | ------------------------------------------------- | --------------------------------------- |
-| úterý 21:00             | [Pálíme Ether](palime-ether.md)                   | Diskuze novinek v ETH/DeFi ekosystému   |
-| (občasně) středa 20:00  | [Governance Call](../../council/governance-call/) | Naše projekty a rozvoj komunity         |
-| (občasně) středa 20:00  | [Pitevna](pitevna.md)                             | Diskuze jednoho konkrétního fenoménu    |
-| (občasně) čtvrtek 18:00 | [Inkubátor](inkubator.md)                         | Akcelerátor nápadů na zajímavé projekty |
+| Den a čas              | Série                                             | Popis                                 |
+| ---------------------- | ------------------------------------------------- | ------------------------------------- |
+| úterý 21:00            | [Pálíme Ether](palime-ether.md)                   | Diskuze novinek v ETH/DeFi ekosystému |
+| (občasně) středa 20:00 | [Governance Call](../../council/governance-call/) | Naše projekty a rozvoj komunity       |
 
 ### Nepravidelné události
 

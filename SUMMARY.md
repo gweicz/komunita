@@ -33,9 +33,8 @@
 
 * [#etheroom](udalosti/etheroom/README.md)
   * [Pálíme Ether](udalosti/etheroom/palime-ether.md)
-  * [Inkubátor](udalosti/etheroom/inkubator.md)
-  * [Pitevna](udalosti/etheroom/pitevna.md)
 * [ETHBrno](https://ethbrno.gwei.cz)
+* [UTXO Prague](http://utxo.cz/)
 
 ## Dokumentace
 
@@ -50,3 +49,5 @@
   * [CZ/SK Kryptoscéna](archiv/pozastavene-projekty/czsk-kryptoscena.md)
   * [Gwei.cz Summit](archiv/pozastavene-projekty/summit.md)
   * [Ethereum/DeFi příručka](archiv/pozastavene-projekty/prirucka.md)
+  * [Inkubátor](archiv/pozastavene-projekty/inkubator.md)
+  * [Pitevna](archiv/pozastavene-projekty/pitevna.md)
