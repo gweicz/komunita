@@ -10,12 +10,13 @@ Zde najdete seznam všech plánovaných a proběhlých [Governance Call](./) set
 
 | Číslo                                                 | Datum      | Organizátor                           |
 | ----------------------------------------------------- | ---------- | ------------------------------------- |
-| [#19](https://forum.gwei.cz/t/governance-call-19/551) | 13.07.2022 | [@tree](https://forum.gwei.cz/u/tree) |
+| [#20](https://forum.gwei.cz/t/governance-call-20/565) | 12.10.2022 | [@tree](https://forum.gwei.cz/u/tree) |
 
 ## Uskutečněné
 
 | Číslo                                                                 | Datum      | Organizátor                                         |
 | --------------------------------------------------------------------- | ---------- | --------------------------------------------------- |
+| [#19](https://forum.gwei.cz/t/governance-call-19/551)                 | 13.07.2022 | [@tree](https://forum.gwei.cz/u/tree)               |
 | #18                                                                   | 06.04.2022 | [@radek](https://forum.gwei.cz/u/radek)             |
 | [#17](https://forum.gwei.cz/t/governance-call-17/497)                 | 24.11.2021 | [@radek](https://forum.gwei.cz/u/radek)             |
 | [#16](https://forum.gwei.cz/t/governance-call-16/481)                 | 10.11.2021 | [@damsky](https://forum.gwei.cz/u/damsky)           |
